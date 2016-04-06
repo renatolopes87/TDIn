@@ -1,0 +1,56 @@
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\Server\bin\Release\Server.exe.config
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\Server\bin\Release\Server.exe
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\Server\bin\Release\Server.pdb
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\Server\bin\Release\ListSingleton.dll
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\Server\bin\Release\ListSingleton.pdb
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\Server\obj\Release\ResolveAssemblyReference.cache
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\Server\obj\Release\Server.exe
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\Server\obj\Release\Server.pdb
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\Server\bin\Release\ListSingletonInterface.dll
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\Server\bin\Release\ListSingletonInterface.pdb
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\Server\bin\Release\Client.exe
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\Server\bin\Release\Client.pdb
+C:\Apm\Visual Studio 2008\Projects\RemotingWithEvents\Server\bin\Release\Server.exe.config
+C:\Apm\Visual Studio 2008\Projects\RemotingWithEvents\Server\obj\Release\Server.exe
+C:\Apm\Visual Studio 2008\Projects\RemotingWithEvents\Server\bin\Release\Server.exe
+C:\Apm\Visual Studio 2008\Projects\RemotingWithEvents\Server\bin\Release\ListSingleton.dll
+C:\Apm\Visual Studio 2008\Projects\RemotingWithEvents\Server\obj\Release\ResolveAssemblyReference.cache
+C:\Apm\Visual Studio 2008\Projects\RemotingWithEvents\Server\bin\Release\Common.dll
+C:\Users\apm\Documents\Visual Studio 2010\Projects\RemotingWithEvents\Server\bin\Release\Server.exe.config
+C:\Users\apm\Documents\Visual Studio 2010\Projects\RemotingWithEvents\Server\obj\Release\Server.exe
+C:\Users\apm\Documents\Visual Studio 2010\Projects\RemotingWithEvents\Server\bin\Release\Server.exe
+C:\Users\apm\Documents\Visual Studio 2010\Projects\RemotingWithEvents\Server\bin\Release\Common.dll
+C:\Users\apm\Documents\Visual Studio 2010\Projects\RemotingWithEvents\Server\bin\Release\ListSingleton.dll
+C:\Users\apm\Documents\Visual Studio 2010\Projects\RemotingWithEvents\Server\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Tiago\Desktop\RemotingWithEvents\Server\bin\Release\Server.exe.config
+C:\Users\Tiago\Desktop\RemotingWithEvents\Server\obj\Release\Server.exe
+C:\Users\Tiago\Desktop\RemotingWithEvents\Server\bin\Release\Server.exe
+C:\Users\Tiago\Desktop\RemotingWithEvents\Server\bin\Release\Common.dll
+C:\Users\Tiago\Desktop\RemotingWithEvents\Server\bin\Release\ListSingleton.dll
+C:\Users\Tiago\Desktop\RemotingWithEvents\Server\obj\Release\ResolveAssemblyReference.cache
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Server\bin\Release\Server.exe.config
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Server\bin\Release\Server.exe
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Server\bin\Release\Common.dll
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Server\bin\Release\ListSingleton.dll
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Server\obj\Release\ResolveAssemblyReference.cache
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Server\obj\Release\Server.exe
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Server\bin\Release\Server.exe.config
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Server\bin\Release\Server.exe
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Server\bin\Release\Common.dll
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Server\bin\Release\ListSingleton.dll
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Server\obj\Release\ResolveAssemblyReference.cache
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Server\obj\Release\Server.exe
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\Source\Server\bin\Release\Server.exe.config
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\Source\Server\obj\Release\Server.exe
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\Source\Server\bin\Release\Server.exe
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\Source\Server\bin\Release\Common.dll
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\Source\Server\bin\Release\ListSingleton.dll
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\Source\Server\obj\Release\ResolveAssemblyReference.cache
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho 1\Source\Server\bin\Release\Server.exe.config
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho 1\Source\Server\obj\Release\Server.exe
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\Server\bin\Release\Server.exe.config
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\Server\bin\Release\Server.exe
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\Server\bin\Release\Common.dll
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\Server\bin\Release\ListSingleton.dll
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\Server\obj\Release\Server.csprojResolveAssemblyReference.cache
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\Server\obj\Release\Server.exe

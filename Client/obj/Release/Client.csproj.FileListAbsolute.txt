@@ -1,0 +1,77 @@
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\Client\bin\Release\Client.exe.config
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\Client\bin\Release\Client.exe
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\Client\bin\Release\Client.pdb
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\Client\obj\Release\ResolveAssemblyReference.cache
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\Client\obj\Release\ClientWindow.resources
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\Client\obj\Release\Client.exe
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\Client\obj\Release\Client.pdb
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\Client\bin\Release\ListSingletonInterface.dll
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\Client\bin\Release\ListSingletonInterface.pdb
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\Client\obj\Release\CommentDlg.resources
+C:\Apm\Visual Studio 2008\Projects\RemotingWithEvents\Client\bin\Release\Client.exe.config
+C:\Apm\Visual Studio 2008\Projects\RemotingWithEvents\Client\obj\Release\Client.exe
+C:\Apm\Visual Studio 2008\Projects\RemotingWithEvents\Client\bin\Release\Client.exe
+C:\Apm\Visual Studio 2008\Projects\RemotingWithEvents\Client\obj\Release\ResolveAssemblyReference.cache
+C:\Apm\Visual Studio 2008\Projects\RemotingWithEvents\Client\obj\Release\ClientWindow.resources
+C:\Apm\Visual Studio 2008\Projects\RemotingWithEvents\Client\obj\Release\CommentDlg.resources
+C:\Apm\Visual Studio 2008\Projects\RemotingWithEvents\Client\obj\Release\Client.Properties.Resources.resources
+C:\Apm\Visual Studio 2008\Projects\RemotingWithEvents\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Apm\Visual Studio 2008\Projects\RemotingWithEvents\Client\bin\Release\Common.dll
+C:\Users\apm\Documents\Visual Studio 2010\Projects\RemotingWithEvents\Client\bin\Release\Client.exe.config
+C:\Users\apm\Documents\Visual Studio 2010\Projects\RemotingWithEvents\Client\obj\Release\Client.exe
+C:\Users\apm\Documents\Visual Studio 2010\Projects\RemotingWithEvents\Client\bin\Release\Client.exe
+C:\Users\apm\Documents\Visual Studio 2010\Projects\RemotingWithEvents\Client\bin\Release\Common.dll
+C:\Users\apm\Documents\Visual Studio 2010\Projects\RemotingWithEvents\Client\obj\Release\ResolveAssemblyReference.cache
+C:\Users\apm\Documents\Visual Studio 2010\Projects\RemotingWithEvents\Client\obj\Release\ClientWindow.resources
+C:\Users\apm\Documents\Visual Studio 2010\Projects\RemotingWithEvents\Client\obj\Release\CommentDlg.resources
+C:\Users\apm\Documents\Visual Studio 2010\Projects\RemotingWithEvents\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\apm\Documents\Visual Studio 2010\Projects\RemotingWithEvents\Client\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\apm\Documents\Visual Studio 2010\Projects\RemotingWithEvents\Client\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\Tiago\Desktop\RemotingWithEvents\Client\bin\Release\Client.exe.config
+C:\Users\Tiago\Desktop\RemotingWithEvents\Client\bin\Release\Client.exe
+C:\Users\Tiago\Desktop\RemotingWithEvents\Client\bin\Release\Common.dll
+C:\Users\Tiago\Desktop\RemotingWithEvents\Client\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Tiago\Desktop\RemotingWithEvents\Client\obj\Release\ClientWindow.resources
+C:\Users\Tiago\Desktop\RemotingWithEvents\Client\obj\Release\CommentDlg.resources
+C:\Users\Tiago\Desktop\RemotingWithEvents\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\Tiago\Desktop\RemotingWithEvents\Client\obj\Release\ResGen.read.1.tlog
+C:\Users\Tiago\Desktop\RemotingWithEvents\Client\obj\Release\ResGen.write.1.tlog
+C:\Users\Tiago\Desktop\RemotingWithEvents\Client\obj\Release\Client.exe
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\bin\Release\Client.exe.config
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\bin\Release\Client.exe
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\bin\Release\Common.dll
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\obj\Release\ResolveAssemblyReference.cache
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\obj\Release\ClientWindow.resources
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\obj\Release\CommentDlg.resources
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\obj\Release\Client.Properties.Resources.resources
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\obj\Release\Client.exe
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Client\bin\Release\Client.exe.config
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Client\bin\Release\Client.exe
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Client\bin\Release\Common.dll
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Client\obj\Release\ResolveAssemblyReference.cache
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Client\obj\Release\ClientWindow.resources
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Client\obj\Release\Bill.resources
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Client\obj\Release\NewItem.resources
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Client\obj\Release\Client.Properties.Resources.resources
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Client\obj\Release\Client.exe
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\Source\Client\bin\Release\Client.exe.config
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\Source\Client\bin\Release\Client.exe
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\Source\Client\bin\Release\Common.dll
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\Source\Client\obj\Release\ResolveAssemblyReference.cache
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\Source\Client\obj\Release\ClientWindow.resources
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\Source\Client\obj\Release\Bill.resources
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\Source\Client\obj\Release\NewItem.resources
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\Source\Client\obj\Release\Client.Properties.Resources.resources
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\Source\Client\obj\Release\Client.exe
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\Client\bin\Release\Client.exe.config
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\Client\bin\Release\Client.exe
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\Client\bin\Release\Common.dll
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\Client\obj\Release\Client.csprojResolveAssemblyReference.cache
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\Client\obj\Release\ClientWindow.resources
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\Client\obj\Release\Bill.resources
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\Client\obj\Release\NewItem.resources
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\Client\obj\Release\Client.exe

@@ -1,0 +1,40 @@
+C:\Users\Tiago\Desktop\RemotingWithEvents\Common\bin\Debug\Common.dll
+C:\Users\Tiago\Desktop\RemotingWithEvents\Common\bin\Debug\Common.pdb
+C:\Users\Tiago\Desktop\RemotingWithEvents\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tiago\Desktop\RemotingWithEvents\Common\obj\Debug\Common.dll
+C:\Users\Tiago\Desktop\RemotingWithEvents\Common\obj\Debug\Common.pdb
+C:\Users\Tiago\Desktop\ProjectTDIN1\Common\bin\Debug\Common.dll
+C:\Users\Tiago\Desktop\ProjectTDIN1\Common\bin\Debug\Common.pdb
+C:\Users\Tiago\Desktop\ProjectTDIN1\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tiago\Desktop\ProjectTDIN1\Common\obj\Debug\Common.dll
+C:\Users\Tiago\Desktop\ProjectTDIN1\Common\obj\Debug\Common.pdb
+C:\Users\Tiago\Desktop\ProjectTDIN\Common\bin\Debug\Common.dll
+C:\Users\Tiago\Desktop\ProjectTDIN\Common\bin\Debug\Common.pdb
+C:\Users\Tiago\Desktop\ProjectTDIN\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tiago\Desktop\ProjectTDIN\Common\obj\Debug\Common.dll
+C:\Users\Tiago\Desktop\ProjectTDIN\Common\obj\Debug\Common.pdb
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\Common\bin\Debug\Common.dll
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\Common\bin\Debug\Common.pdb
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\Common\obj\Debug\Common.dll
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\Common\obj\Debug\Common.pdb
+\\hvfs.feupsig.fe.up.pt\users\ei08142\Desktop\proj\ProjectTDIN\Common\bin\Debug\Common.dll
+\\hvfs.feupsig.fe.up.pt\users\ei08142\Desktop\proj\ProjectTDIN\Common\bin\Debug\Common.pdb
+\\hvfs.feupsig.fe.up.pt\users\ei08142\Desktop\proj\ProjectTDIN\Common\obj\Debug\ResolveAssemblyReference.cache
+\\hvfs.feupsig.fe.up.pt\users\ei08142\Desktop\proj\ProjectTDIN\Common\obj\Debug\Common.dll
+\\hvfs.feupsig.fe.up.pt\users\ei08142\Desktop\proj\ProjectTDIN\Common\obj\Debug\Common.pdb
+D:\ProjectTDIN\Common\bin\Debug\Common.dll
+D:\ProjectTDIN\Common\bin\Debug\Common.pdb
+D:\ProjectTDIN\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectTDIN\Common\obj\Debug\Common.dll
+D:\ProjectTDIN\Common\obj\Debug\Common.pdb
+C:\Users\Andre\Desktop\ProjectTDIN\Common\bin\Debug\Common.dll
+C:\Users\Andre\Desktop\ProjectTDIN\Common\bin\Debug\Common.pdb
+C:\Users\Andre\Desktop\ProjectTDIN\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andre\Desktop\ProjectTDIN\Common\obj\Debug\Common.dll
+C:\Users\Andre\Desktop\ProjectTDIN\Common\obj\Debug\Common.pdb
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Common\bin\Debug\Common.dll
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Common\bin\Debug\Common.pdb
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Common\obj\Debug\Common.dll
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Common\obj\Debug\Common.pdb

@@ -1,0 +1,151 @@
+C:\Users\apm\Documents\Visual Studio 2010\Projects\RemotingWithEvents\Client\bin\Debug\Client.exe.config
+C:\Users\Tiago\Desktop\RemotingWithEvents\Client\bin\Debug\Client.exe.config
+C:\Users\Tiago\Desktop\RemotingWithEvents\Client\bin\Debug\Client.exe
+C:\Users\Tiago\Desktop\RemotingWithEvents\Client\bin\Debug\Client.pdb
+C:\Users\Tiago\Desktop\RemotingWithEvents\Client\bin\Debug\Common.dll
+C:\Users\Tiago\Desktop\RemotingWithEvents\Client\bin\Debug\Common.pdb
+C:\Users\Tiago\Desktop\RemotingWithEvents\Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tiago\Desktop\RemotingWithEvents\Client\obj\Debug\ClientWindow.resources
+C:\Users\Tiago\Desktop\RemotingWithEvents\Client\obj\Debug\CommentDlg.resources
+C:\Users\Tiago\Desktop\RemotingWithEvents\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Tiago\Desktop\RemotingWithEvents\Client\obj\Debug\ResGen.read.1.tlog
+C:\Users\Tiago\Desktop\RemotingWithEvents\Client\obj\Debug\ResGen.write.1.tlog
+C:\Users\Tiago\Desktop\RemotingWithEvents\Client\obj\Debug\Client.exe
+C:\Users\Tiago\Desktop\RemotingWithEvents\Client\obj\Debug\Client.pdb
+C:\Users\Tiago\Desktop\ProjectTDIN1\Client\bin\Debug\Client.exe.config
+C:\Users\Tiago\Desktop\ProjectTDIN1\Client\bin\Debug\Client.exe
+C:\Users\Tiago\Desktop\ProjectTDIN1\Client\bin\Debug\Client.pdb
+C:\Users\Tiago\Desktop\ProjectTDIN1\Client\bin\Debug\Common.dll
+C:\Users\Tiago\Desktop\ProjectTDIN1\Client\bin\Debug\Common.pdb
+C:\Users\Tiago\Desktop\ProjectTDIN1\Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tiago\Desktop\ProjectTDIN1\Client\obj\Debug\ClientWindow.resources
+C:\Users\Tiago\Desktop\ProjectTDIN1\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Tiago\Desktop\ProjectTDIN1\Client\obj\Debug\ResGen.read.1.tlog
+C:\Users\Tiago\Desktop\ProjectTDIN1\Client\obj\Debug\ResGen.write.1.tlog
+C:\Users\Tiago\Desktop\ProjectTDIN1\Client\obj\Debug\Client.exe
+C:\Users\Tiago\Desktop\ProjectTDIN1\Client\obj\Debug\Client.pdb
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\bin\Debug\Client.exe.config
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\bin\Debug\Client.exe
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\bin\Debug\Client.pdb
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\bin\Debug\Common.dll
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\bin\Debug\Common.pdb
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\obj\Debug\ClientWindow.resources
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\obj\Debug\Client.exe
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\obj\Debug\Client.pdb
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\obj\Debug\NewItem.resources
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN1\Client\bin\Debug\Client.exe.config
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN1\Client\bin\Debug\Client.exe
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN1\Client\bin\Debug\Client.pdb
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN1\Client\bin\Debug\Common.dll
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN1\Client\bin\Debug\Common.pdb
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN1\Client\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN1\Client\obj\Debug\ClientWindow.resources
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN1\Client\obj\Debug\NewItem.resources
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN1\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN1\Client\obj\Debug\ResGen.read.1.tlog
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN1\Client\obj\Debug\ResGen.write.1.tlog
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN1\Client\obj\Debug\Client.exe
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN1\Client\obj\Debug\Client.pdb
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\obj\Debug\ResGen.read.1.tlog
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\obj\Debug\ResGen.write.1.tlog
+C:\Users\Tiago\Desktop\ProjectTDIN1\Client\obj\Debug\NewItem.resources
+C:\Users\Tiago\Desktop\ProjectTDIN\Client\bin\Debug\Client.exe.config
+C:\Users\Tiago\Desktop\ProjectTDIN\Client\bin\Debug\Client.exe
+C:\Users\Tiago\Desktop\ProjectTDIN\Client\bin\Debug\Client.pdb
+C:\Users\Tiago\Desktop\ProjectTDIN\Client\bin\Debug\Common.dll
+C:\Users\Tiago\Desktop\ProjectTDIN\Client\bin\Debug\Common.pdb
+C:\Users\Tiago\Desktop\ProjectTDIN\Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tiago\Desktop\ProjectTDIN\Client\obj\Debug\ClientWindow.resources
+C:\Users\Tiago\Desktop\ProjectTDIN\Client\obj\Debug\NewItem.resources
+C:\Users\Tiago\Desktop\ProjectTDIN\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Tiago\Desktop\ProjectTDIN\Client\obj\Debug\ResGen.read.1.tlog
+C:\Users\Tiago\Desktop\ProjectTDIN\Client\obj\Debug\ResGen.write.1.tlog
+C:\Users\Tiago\Desktop\ProjectTDIN\Client\obj\Debug\Client.exe
+C:\Users\Tiago\Desktop\ProjectTDIN\Client\obj\Debug\Client.pdb
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\Client\bin\Debug\Client.exe.config
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\Client\obj\Debug\Client.exe
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\Client\obj\Debug\Client.pdb
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\Client\bin\Debug\Client.exe
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\Client\bin\Debug\Client.pdb
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\Client\bin\Debug\Common.dll
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\Client\bin\Debug\Common.pdb
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\Client\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\Client\obj\Debug\ClientWindow.resources
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\Client\obj\Debug\NewItem.resources
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\Client\obj\Debug\ResGen.read.1.tlog
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\Client\obj\Debug\ResGen.write.1.tlog
+\\hvfs.feupsig.fe.up.pt\users\ei08085\Desktop\ProjectTDIN\ProjectTDIN\Client\bin\Debug\Client.exe.config
+\\hvfs.feupsig.fe.up.pt\users\ei08085\Desktop\ProjectTDIN\ProjectTDIN\Client\bin\Debug\Client.exe
+\\hvfs.feupsig.fe.up.pt\users\ei08085\Desktop\ProjectTDIN\ProjectTDIN\Client\bin\Debug\Client.pdb
+\\hvfs.feupsig.fe.up.pt\users\ei08085\Desktop\ProjectTDIN\ProjectTDIN\Client\bin\Debug\Common.dll
+\\hvfs.feupsig.fe.up.pt\users\ei08085\Desktop\ProjectTDIN\ProjectTDIN\Client\bin\Debug\Common.pdb
+\\hvfs.feupsig.fe.up.pt\users\ei08085\Desktop\ProjectTDIN\ProjectTDIN\Client\obj\Debug\ResolveAssemblyReference.cache
+\\hvfs.feupsig.fe.up.pt\users\ei08085\Desktop\ProjectTDIN\ProjectTDIN\Client\obj\Debug\ClientWindow.resources
+\\hvfs.feupsig.fe.up.pt\users\ei08085\Desktop\ProjectTDIN\ProjectTDIN\Client\obj\Debug\NewItem.resources
+\\hvfs.feupsig.fe.up.pt\users\ei08085\Desktop\ProjectTDIN\ProjectTDIN\Client\obj\Debug\Client.Properties.Resources.resources
+\\hvfs.feupsig.fe.up.pt\users\ei08085\Desktop\ProjectTDIN\ProjectTDIN\Client\obj\Debug\GenerateResource-ResGen.read.1.tlog
+\\hvfs.feupsig.fe.up.pt\users\ei08085\Desktop\ProjectTDIN\ProjectTDIN\Client\obj\Debug\ResGen.read.1.tlog
+\\hvfs.feupsig.fe.up.pt\users\ei08085\Desktop\ProjectTDIN\ProjectTDIN\Client\obj\Debug\GenerateResource-ResGen.write.1.tlog
+\\hvfs.feupsig.fe.up.pt\users\ei08085\Desktop\ProjectTDIN\ProjectTDIN\Client\obj\Debug\ResGen.write.1.tlog
+\\hvfs.feupsig.fe.up.pt\users\ei08085\Desktop\ProjectTDIN\ProjectTDIN\Client\obj\Debug\Client.exe
+\\hvfs.feupsig.fe.up.pt\users\ei08085\Desktop\ProjectTDIN\ProjectTDIN\Client\obj\Debug\Client.pdb
+\\hvfs.feupsig.fe.up.pt\users\ei08085\Desktop\ProjectTDIN\Client\bin\Debug\Client.exe.config
+\\hvfs.feupsig.fe.up.pt\users\ei08085\Desktop\ProjectTDIN\Client\bin\Debug\Client.exe
+\\hvfs.feupsig.fe.up.pt\users\ei08085\Desktop\ProjectTDIN\Client\bin\Debug\Client.pdb
+\\hvfs.feupsig.fe.up.pt\users\ei08085\Desktop\ProjectTDIN\Client\bin\Debug\Common.dll
+\\hvfs.feupsig.fe.up.pt\users\ei08085\Desktop\ProjectTDIN\Client\bin\Debug\Common.pdb
+\\hvfs.feupsig.fe.up.pt\users\ei08085\Desktop\ProjectTDIN\Client\obj\Debug\ResolveAssemblyReference.cache
+\\hvfs.feupsig.fe.up.pt\users\ei08085\Desktop\ProjectTDIN\Client\obj\Debug\ClientWindow.resources
+\\hvfs.feupsig.fe.up.pt\users\ei08085\Desktop\ProjectTDIN\Client\obj\Debug\NewItem.resources
+\\hvfs.feupsig.fe.up.pt\users\ei08085\Desktop\ProjectTDIN\Client\obj\Debug\Client.Properties.Resources.resources
+\\hvfs.feupsig.fe.up.pt\users\ei08085\Desktop\ProjectTDIN\Client\obj\Debug\GenerateResource-ResGen.read.1.tlog
+\\hvfs.feupsig.fe.up.pt\users\ei08085\Desktop\ProjectTDIN\Client\obj\Debug\ResGen.read.1.tlog
+\\hvfs.feupsig.fe.up.pt\users\ei08085\Desktop\ProjectTDIN\Client\obj\Debug\GenerateResource-ResGen.write.1.tlog
+\\hvfs.feupsig.fe.up.pt\users\ei08085\Desktop\ProjectTDIN\Client\obj\Debug\ResGen.write.1.tlog
+\\hvfs.feupsig.fe.up.pt\users\ei08085\Desktop\ProjectTDIN\Client\obj\Debug\Client.exe
+\\hvfs.feupsig.fe.up.pt\users\ei08085\Desktop\ProjectTDIN\Client\obj\Debug\Client.pdb
+D:\ProjectTDIN\Client\bin\Debug\Client.exe.config
+D:\ProjectTDIN\Client\bin\Debug\Client.exe
+D:\ProjectTDIN\Client\bin\Debug\Client.pdb
+D:\ProjectTDIN\Client\bin\Debug\Common.dll
+D:\ProjectTDIN\Client\bin\Debug\Common.pdb
+D:\ProjectTDIN\Client\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectTDIN\Client\obj\Debug\ClientWindow.resources
+D:\ProjectTDIN\Client\obj\Debug\NewItem.resources
+D:\ProjectTDIN\Client\obj\Debug\Client.Properties.Resources.resources
+D:\ProjectTDIN\Client\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\ProjectTDIN\Client\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\ProjectTDIN\Client\obj\Debug\Client.exe
+D:\ProjectTDIN\Client\obj\Debug\Client.pdb
+D:\ProjectTDIN\Client\obj\Debug\Bill.resources
+C:\Users\Andre\Desktop\ProjectTDIN\Client\bin\Debug\Client.exe.config
+C:\Users\Andre\Desktop\ProjectTDIN\Client\bin\Debug\Client.exe
+C:\Users\Andre\Desktop\ProjectTDIN\Client\bin\Debug\Client.pdb
+C:\Users\Andre\Desktop\ProjectTDIN\Client\bin\Debug\Common.dll
+C:\Users\Andre\Desktop\ProjectTDIN\Client\bin\Debug\Common.pdb
+C:\Users\Andre\Desktop\ProjectTDIN\Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andre\Desktop\ProjectTDIN\Client\obj\Debug\ClientWindow.resources
+C:\Users\Andre\Desktop\ProjectTDIN\Client\obj\Debug\Bill.resources
+C:\Users\Andre\Desktop\ProjectTDIN\Client\obj\Debug\NewItem.resources
+C:\Users\Andre\Desktop\ProjectTDIN\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Andre\Desktop\ProjectTDIN\Client\obj\Debug\ResGen.read.1.tlog
+C:\Users\Andre\Desktop\ProjectTDIN\Client\obj\Debug\ResGen.write.1.tlog
+C:\Users\Andre\Desktop\ProjectTDIN\Client\obj\Debug\Client.exe
+C:\Users\Andre\Desktop\ProjectTDIN\Client\obj\Debug\Client.pdb
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Client\bin\Debug\Client.exe.config
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Client\bin\Debug\Client.exe
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Client\bin\Debug\Client.pdb
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Client\bin\Debug\Common.dll
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Client\bin\Debug\Common.pdb
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Client\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Client\obj\Debug\ClientWindow.resources
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Client\obj\Debug\Bill.resources
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Client\obj\Debug\NewItem.resources
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Client\obj\Debug\ResGen.read.1.tlog
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Client\obj\Debug\ResGen.write.1.tlog
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Client\obj\Debug\Client.exe
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Client\obj\Debug\Client.pdb

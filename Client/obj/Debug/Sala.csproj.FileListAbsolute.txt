@@ -1,0 +1,11 @@
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\bin\Debug\Sala.exe.config
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\bin\Debug\Sala.exe
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\bin\Debug\Sala.pdb
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\bin\Debug\Common.dll
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\bin\Debug\Common.pdb
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\obj\Debug\ClientWindow.resources
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\obj\Debug\CommentDlg.resources
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\obj\Debug\Sala.Properties.Resources.resources
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\obj\Debug\Sala.exe
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Client\obj\Debug\Sala.pdb

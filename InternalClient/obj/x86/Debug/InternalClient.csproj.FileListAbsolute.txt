@@ -1,0 +1,97 @@
+C:\Users\Tiago\Desktop\RemotingWithEvents\InternalClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tiago\Desktop\RemotingWithEvents\InternalClient\bin\Debug\InternalClient.exe
+C:\Users\Tiago\Desktop\RemotingWithEvents\InternalClient\bin\Debug\InternalClient.pdb
+C:\Users\Tiago\Desktop\RemotingWithEvents\InternalClient\bin\Debug\Common.dll
+C:\Users\Tiago\Desktop\RemotingWithEvents\InternalClient\bin\Debug\Common.pdb
+C:\Users\Tiago\Desktop\RemotingWithEvents\InternalClient\obj\x86\Debug\InternalClient.exe
+C:\Users\Tiago\Desktop\RemotingWithEvents\InternalClient\obj\x86\Debug\InternalClient.pdb
+C:\Users\Tiago\Desktop\RemotingWithEvents\InternalClient\bin\Debug\InternalClient.exe.config
+C:\Users\Tiago\Desktop\ProjectTDIN1\InternalClient\bin\Debug\InternalClient.exe.config
+C:\Users\Tiago\Desktop\ProjectTDIN1\InternalClient\bin\Debug\InternalClient.exe
+C:\Users\Tiago\Desktop\ProjectTDIN1\InternalClient\bin\Debug\InternalClient.pdb
+C:\Users\Tiago\Desktop\ProjectTDIN1\InternalClient\bin\Debug\Common.dll
+C:\Users\Tiago\Desktop\ProjectTDIN1\InternalClient\bin\Debug\Common.pdb
+C:\Users\Tiago\Desktop\ProjectTDIN1\InternalClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tiago\Desktop\ProjectTDIN1\InternalClient\obj\x86\Debug\InternalClient.InitialForm.resources
+C:\Users\Tiago\Desktop\ProjectTDIN1\InternalClient\obj\x86\Debug\StateDlg.resources
+C:\Users\Tiago\Desktop\ProjectTDIN1\InternalClient\obj\x86\Debug\InternalClientWindow.resources
+C:\Users\Tiago\Desktop\ProjectTDIN1\InternalClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tiago\Desktop\ProjectTDIN1\InternalClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tiago\Desktop\ProjectTDIN1\InternalClient\obj\x86\Debug\InternalClient.exe
+C:\Users\Tiago\Desktop\ProjectTDIN1\InternalClient\obj\x86\Debug\InternalClient.pdb
+C:\Users\Tiago\Desktop\ProjectTDIN\InternalClient\bin\Debug\Common.dll
+C:\Users\Tiago\Desktop\ProjectTDIN\InternalClient\bin\Debug\Common.pdb
+C:\Users\Tiago\Desktop\ProjectTDIN\InternalClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tiago\Desktop\ProjectTDIN\InternalClient\obj\x86\Debug\InternalClient.InitialForm.resources
+C:\Users\Tiago\Desktop\ProjectTDIN\InternalClient\obj\x86\Debug\StateDlg.resources
+C:\Users\Tiago\Desktop\ProjectTDIN\InternalClient\obj\x86\Debug\InternalClientWindow.resources
+C:\Users\Tiago\Desktop\ProjectTDIN\InternalClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tiago\Desktop\ProjectTDIN\InternalClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tiago\Desktop\ProjectTDIN\InternalClient\obj\x86\Debug\InternalClient.exe
+C:\Users\Tiago\Desktop\ProjectTDIN\InternalClient\obj\x86\Debug\InternalClient.pdb
+C:\Users\Tiago\Desktop\ProjectTDIN\InternalClient\bin\Debug\InternalClient.exe.config
+C:\Users\Tiago\Desktop\ProjectTDIN\InternalClient\bin\Debug\InternalClient.exe
+C:\Users\Tiago\Desktop\ProjectTDIN\InternalClient\bin\Debug\InternalClient.pdb
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\InternalClient\bin\Debug\InternalClient.exe.config
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\InternalClient\bin\Debug\InternalClient.exe
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\InternalClient\bin\Debug\InternalClient.pdb
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\InternalClient\bin\Debug\Common.dll
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\InternalClient\bin\Debug\Common.pdb
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\InternalClient\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\InternalClient\obj\x86\Debug\InternalClient.InitialForm.resources
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\InternalClient\obj\x86\Debug\StateDlg.resources
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\InternalClient\obj\x86\Debug\InternalClientWindow.resources
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\InternalClient\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\InternalClient\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\InternalClient\obj\x86\Debug\InternalClient.exe
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\InternalClient\obj\x86\Debug\InternalClient.pdb
+\\hvfs.feupsig.fe.up.pt\users\ei08142\Desktop\proj\ProjectTDIN\InternalClient\bin\Debug\InternalClient.exe.config
+\\hvfs.feupsig.fe.up.pt\users\ei08142\Desktop\proj\ProjectTDIN\InternalClient\bin\Debug\InternalClient.exe
+\\hvfs.feupsig.fe.up.pt\users\ei08142\Desktop\proj\ProjectTDIN\InternalClient\bin\Debug\InternalClient.pdb
+\\hvfs.feupsig.fe.up.pt\users\ei08142\Desktop\proj\ProjectTDIN\InternalClient\bin\Debug\Common.dll
+\\hvfs.feupsig.fe.up.pt\users\ei08142\Desktop\proj\ProjectTDIN\InternalClient\bin\Debug\Common.pdb
+\\hvfs.feupsig.fe.up.pt\users\ei08142\Desktop\proj\ProjectTDIN\InternalClient\obj\x86\Debug\ResolveAssemblyReference.cache
+\\hvfs.feupsig.fe.up.pt\users\ei08142\Desktop\proj\ProjectTDIN\InternalClient\obj\x86\Debug\InternalClient.InitialForm.resources
+\\hvfs.feupsig.fe.up.pt\users\ei08142\Desktop\proj\ProjectTDIN\InternalClient\obj\x86\Debug\StateDlg.resources
+\\hvfs.feupsig.fe.up.pt\users\ei08142\Desktop\proj\ProjectTDIN\InternalClient\obj\x86\Debug\InternalClientWindow.resources
+\\hvfs.feupsig.fe.up.pt\users\ei08142\Desktop\proj\ProjectTDIN\InternalClient\obj\x86\Debug\GenerateResource.read.1.tlog
+\\hvfs.feupsig.fe.up.pt\users\ei08142\Desktop\proj\ProjectTDIN\InternalClient\obj\x86\Debug\GenerateResource.write.1.tlog
+\\hvfs.feupsig.fe.up.pt\users\ei08142\Desktop\proj\ProjectTDIN\InternalClient\obj\x86\Debug\InternalClient.exe
+\\hvfs.feupsig.fe.up.pt\users\ei08142\Desktop\proj\ProjectTDIN\InternalClient\obj\x86\Debug\InternalClient.pdb
+D:\ProjectTDIN\InternalClient\bin\Debug\InternalClient.exe.config
+D:\ProjectTDIN\InternalClient\bin\Debug\InternalClient.exe
+D:\ProjectTDIN\InternalClient\bin\Debug\InternalClient.pdb
+D:\ProjectTDIN\InternalClient\bin\Debug\Common.dll
+D:\ProjectTDIN\InternalClient\bin\Debug\Common.pdb
+D:\ProjectTDIN\InternalClient\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ProjectTDIN\InternalClient\obj\x86\Debug\InternalClient.InitialForm.resources
+D:\ProjectTDIN\InternalClient\obj\x86\Debug\StateDlg.resources
+D:\ProjectTDIN\InternalClient\obj\x86\Debug\InternalClientWindow.resources
+D:\ProjectTDIN\InternalClient\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ProjectTDIN\InternalClient\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ProjectTDIN\InternalClient\obj\x86\Debug\InternalClient.exe
+D:\ProjectTDIN\InternalClient\obj\x86\Debug\InternalClient.pdb
+C:\Users\Andre\Desktop\ProjectTDIN\InternalClient\bin\Debug\InternalClient.exe.config
+C:\Users\Andre\Desktop\ProjectTDIN\InternalClient\bin\Debug\InternalClient.exe
+C:\Users\Andre\Desktop\ProjectTDIN\InternalClient\bin\Debug\InternalClient.pdb
+C:\Users\Andre\Desktop\ProjectTDIN\InternalClient\bin\Debug\Common.dll
+C:\Users\Andre\Desktop\ProjectTDIN\InternalClient\bin\Debug\Common.pdb
+C:\Users\Andre\Desktop\ProjectTDIN\InternalClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andre\Desktop\ProjectTDIN\InternalClient\obj\x86\Debug\InternalClient.InitialForm.resources
+C:\Users\Andre\Desktop\ProjectTDIN\InternalClient\obj\x86\Debug\InternalClientWindow.resources
+C:\Users\Andre\Desktop\ProjectTDIN\InternalClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Andre\Desktop\ProjectTDIN\InternalClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Andre\Desktop\ProjectTDIN\InternalClient\obj\x86\Debug\InternalClient.exe
+C:\Users\Andre\Desktop\ProjectTDIN\InternalClient\obj\x86\Debug\InternalClient.pdb
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\InternalClient\bin\Debug\InternalClient.exe.config
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\InternalClient\bin\Debug\InternalClient.exe
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\InternalClient\bin\Debug\InternalClient.pdb
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\InternalClient\bin\Debug\Common.dll
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\InternalClient\bin\Debug\Common.pdb
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\InternalClient\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\InternalClient\obj\x86\Debug\InternalClient.InitialForm.resources
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\InternalClient\obj\x86\Debug\InternalClientWindow.resources
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\InternalClient\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\InternalClient\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\InternalClient\obj\x86\Debug\InternalClient.exe
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\InternalClient\obj\x86\Debug\InternalClient.pdb

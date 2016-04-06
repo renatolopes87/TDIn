@@ -1,0 +1,30 @@
+Logfile started at 12-04-2012 22:37:32
+Table inserted in the system: 1
+New request inserted in the system: 1 - 3 x GB3. Broccoli Rabe Roll on table 1
+New request inserted in the system: 2 - 1 x A10. Hand Rolled Manicotti on table 1
+Table inserted in the system: 2
+New request inserted in the system: 3 - 1 x A01. Calamari Fritti on table 2
+Table inserted in the system: 3
+New request inserted in the system: 4 - 1 x M02. Grilled Skirt Steak on table 3
+New request inserted in the system: 5 - 1 x PA3. Spaghetti alla Chitarra on table 3
+Table inserted in the system: 4
+New request inserted in the system: 6 - 1 x P04. Pesto on table 4
+Request removed from the system: 5 - 1 x PA3. Spaghetti alla Chitarra on table 3
+Request removed from the system: 4 - 1 x M02. Grilled Skirt Steak on table 3
+Table removed from the system: 3
+Request removed from the system: 6 - 1 x P04. Pesto on table 4
+Table removed from the system: 4
+New InternalClient added: 1 -> kitchen
+New InternalClient added: 2 -> kitchen
+New request inserted in the system: 7 - 1 x P05. Bianca on table 1
+Table inserted in the system: 3
+New request inserted in the system: 8 - 6 x A06. Homemade Mozzarella on table 3
+Request number 1 changed its state from Waiting to Preparing
+Request number 2 changed its state from Waiting to Preparing
+Request number 8 changed its state from Waiting to Preparing
+Request number 1 changed its state from Preparing to Ready
+Request number 8 changed its state from Preparing to Ready
+Request removed from the system: 7 - 1 x P05. Bianca on table 1
+Request removed from the system: 2 - 1 x A10. Hand Rolled Manicotti on table 1
+Request removed from the system: 1 - 3 x GB3. Broccoli Rabe Roll on table 1
+Table removed from the system: 1

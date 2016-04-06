@@ -1,0 +1,33 @@
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\InternalClient\bin\Release\InternalClient.exe.config
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\InternalClient\bin\Release\InternalClient.exe
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\InternalClient\bin\Release\InternalClient.pdb
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\InternalClient\bin\Release\Common.dll
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\InternalClient\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\InternalClient\obj\x86\Release\InternalClient.InitialForm.resources
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\InternalClient\obj\x86\Release\InternalClientWindow.resources
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\InternalClient\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\InternalClient\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\InternalClient\obj\x86\Release\InternalClient.exe
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\InternalClient\obj\x86\Release\InternalClient.pdb
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\Source\InternalClient\bin\Release\InternalClient.exe.config
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\Source\InternalClient\bin\Release\InternalClient.exe
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\Source\InternalClient\bin\Release\InternalClient.pdb
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\Source\InternalClient\bin\Release\Common.dll
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\Source\InternalClient\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\Source\InternalClient\obj\x86\Release\InternalClient.InitialForm.resources
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\Source\InternalClient\obj\x86\Release\InternalClientWindow.resources
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\Source\InternalClient\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\Source\InternalClient\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\Source\InternalClient\obj\x86\Release\InternalClient.exe
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\Source\InternalClient\obj\x86\Release\InternalClient.pdb
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\InternalClient\bin\Release\InternalClient.exe.config
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\InternalClient\bin\Release\InternalClient.exe
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\InternalClient\bin\Release\InternalClient.pdb
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\InternalClient\bin\Release\Common.dll
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\InternalClient\obj\x86\Release\InternalClient.csprojResolveAssemblyReference.cache
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\InternalClient\obj\x86\Release\InternalClient.InitialForm.resources
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\InternalClient\obj\x86\Release\InternalClientWindow.resources
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\InternalClient\obj\x86\Release\InternalClient.Properties.Resources.resources
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\InternalClient\obj\x86\Release\InternalClient.csproj.GenerateResource.Cache
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\InternalClient\obj\x86\Release\InternalClient.exe
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\InternalClient\obj\x86\Release\InternalClient.pdb

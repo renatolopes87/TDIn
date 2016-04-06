@@ -1,0 +1,101 @@
+C:\Users\apm\Documents\Visual Studio 2010\Projects\RemotingWithEvents\Server\bin\Debug\Server.exe.config
+C:\Users\Tiago\Desktop\RemotingWithEvents\Server\bin\Debug\Server.exe.config
+C:\Users\Tiago\Desktop\RemotingWithEvents\Server\bin\Debug\Server.exe
+C:\Users\Tiago\Desktop\RemotingWithEvents\Server\bin\Debug\Server.pdb
+C:\Users\Tiago\Desktop\RemotingWithEvents\Server\bin\Debug\Common.dll
+C:\Users\Tiago\Desktop\RemotingWithEvents\Server\bin\Debug\ListSingleton.dll
+C:\Users\Tiago\Desktop\RemotingWithEvents\Server\bin\Debug\Common.pdb
+C:\Users\Tiago\Desktop\RemotingWithEvents\Server\bin\Debug\ListSingleton.pdb
+C:\Users\Tiago\Desktop\RemotingWithEvents\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tiago\Desktop\RemotingWithEvents\Server\obj\Debug\Server.exe
+C:\Users\Tiago\Desktop\RemotingWithEvents\Server\obj\Debug\Server.pdb
+C:\Users\Tiago\Desktop\ProjectTDIN1\Server\bin\Debug\Server.exe.config
+C:\Users\Tiago\Desktop\ProjectTDIN1\Server\bin\Debug\Server.exe
+C:\Users\Tiago\Desktop\ProjectTDIN1\Server\bin\Debug\Server.pdb
+C:\Users\Tiago\Desktop\ProjectTDIN1\Server\bin\Debug\Common.dll
+C:\Users\Tiago\Desktop\ProjectTDIN1\Server\bin\Debug\ListSingleton.dll
+C:\Users\Tiago\Desktop\ProjectTDIN1\Server\bin\Debug\Common.pdb
+C:\Users\Tiago\Desktop\ProjectTDIN1\Server\bin\Debug\ListSingleton.pdb
+C:\Users\Tiago\Desktop\ProjectTDIN1\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tiago\Desktop\ProjectTDIN1\Server\obj\Debug\Server.exe
+C:\Users\Tiago\Desktop\ProjectTDIN1\Server\obj\Debug\Server.pdb
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Server\bin\Debug\Server.exe.config
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Server\obj\Debug\Server.exe
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Server\obj\Debug\Server.pdb
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Server\bin\Debug\Server.exe
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Server\bin\Debug\Server.pdb
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Server\bin\Debug\Common.dll
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Server\bin\Debug\ListSingleton.dll
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Server\bin\Debug\Common.pdb
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Server\bin\Debug\ListSingleton.pdb
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN1\Server\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN1\Server\bin\Debug\Server.exe.config
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN1\Server\obj\Debug\Server.exe
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN1\Server\obj\Debug\Server.pdb
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN1\Server\bin\Debug\Server.exe
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN1\Server\bin\Debug\Server.pdb
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN1\Server\bin\Debug\Common.dll
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN1\Server\bin\Debug\ListSingleton.dll
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN1\Server\bin\Debug\Common.pdb
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN1\Server\bin\Debug\ListSingleton.pdb
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN1\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tiago\Desktop\ProjectTDIN\Server\bin\Debug\Server.exe.config
+C:\Users\Tiago\Desktop\ProjectTDIN\Server\obj\Debug\Server.exe
+C:\Users\Tiago\Desktop\ProjectTDIN\Server\obj\Debug\Server.pdb
+C:\Users\Tiago\Desktop\ProjectTDIN\Server\bin\Debug\Server.exe
+C:\Users\Tiago\Desktop\ProjectTDIN\Server\bin\Debug\Server.pdb
+C:\Users\Tiago\Desktop\ProjectTDIN\Server\bin\Debug\Common.dll
+C:\Users\Tiago\Desktop\ProjectTDIN\Server\bin\Debug\ListSingleton.dll
+C:\Users\Tiago\Desktop\ProjectTDIN\Server\bin\Debug\Common.pdb
+C:\Users\Tiago\Desktop\ProjectTDIN\Server\bin\Debug\ListSingleton.pdb
+C:\Users\Tiago\Desktop\ProjectTDIN\Server\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\Server\bin\Debug\Server.exe.config
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\Server\obj\Debug\Server.exe
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\Server\obj\Debug\Server.pdb
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\Server\bin\Debug\Server.exe
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\Server\bin\Debug\Server.pdb
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\Server\bin\Debug\Common.dll
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\Server\bin\Debug\ListSingleton.dll
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\Server\bin\Debug\Common.pdb
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\Server\bin\Debug\ListSingleton.pdb
+D:\Dropbox\TDIN\Trabalho\ProjectTDIN\Server\obj\Debug\ResolveAssemblyReference.cache
+\\hvfs.feupsig.fe.up.pt\users\ei08142\Desktop\proj\ProjectTDIN\Server\bin\Debug\Server.exe.config
+\\hvfs.feupsig.fe.up.pt\users\ei08142\Desktop\proj\ProjectTDIN\Server\obj\Debug\Server.exe
+\\hvfs.feupsig.fe.up.pt\users\ei08142\Desktop\proj\ProjectTDIN\Server\obj\Debug\Server.pdb
+\\hvfs.feupsig.fe.up.pt\users\ei08142\Desktop\proj\ProjectTDIN\Server\bin\Debug\Server.exe
+\\hvfs.feupsig.fe.up.pt\users\ei08142\Desktop\proj\ProjectTDIN\Server\bin\Debug\Server.pdb
+\\hvfs.feupsig.fe.up.pt\users\ei08142\Desktop\proj\ProjectTDIN\Server\bin\Debug\Common.dll
+\\hvfs.feupsig.fe.up.pt\users\ei08142\Desktop\proj\ProjectTDIN\Server\bin\Debug\ListSingleton.dll
+\\hvfs.feupsig.fe.up.pt\users\ei08142\Desktop\proj\ProjectTDIN\Server\bin\Debug\Common.pdb
+\\hvfs.feupsig.fe.up.pt\users\ei08142\Desktop\proj\ProjectTDIN\Server\bin\Debug\ListSingleton.pdb
+\\hvfs.feupsig.fe.up.pt\users\ei08142\Desktop\proj\ProjectTDIN\Server\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectTDIN\Server\bin\Debug\Server.exe.config
+D:\ProjectTDIN\Server\bin\Debug\Server.exe
+D:\ProjectTDIN\Server\bin\Debug\Server.pdb
+D:\ProjectTDIN\Server\bin\Debug\Common.dll
+D:\ProjectTDIN\Server\bin\Debug\ListSingleton.dll
+D:\ProjectTDIN\Server\bin\Debug\Common.pdb
+D:\ProjectTDIN\Server\bin\Debug\ListSingleton.pdb
+D:\ProjectTDIN\Server\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectTDIN\Server\obj\Debug\Server.exe
+D:\ProjectTDIN\Server\obj\Debug\Server.pdb
+C:\Users\Andre\Desktop\ProjectTDIN\Server\bin\Debug\Server.exe.config
+C:\Users\Andre\Desktop\ProjectTDIN\Server\bin\Debug\Server.exe
+C:\Users\Andre\Desktop\ProjectTDIN\Server\bin\Debug\Server.pdb
+C:\Users\Andre\Desktop\ProjectTDIN\Server\bin\Debug\Common.dll
+C:\Users\Andre\Desktop\ProjectTDIN\Server\bin\Debug\ListSingleton.dll
+C:\Users\Andre\Desktop\ProjectTDIN\Server\bin\Debug\Common.pdb
+C:\Users\Andre\Desktop\ProjectTDIN\Server\bin\Debug\ListSingleton.pdb
+C:\Users\Andre\Desktop\ProjectTDIN\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andre\Desktop\ProjectTDIN\Server\obj\Debug\Server.exe
+C:\Users\Andre\Desktop\ProjectTDIN\Server\obj\Debug\Server.pdb
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Server\bin\Debug\Server.exe.config
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Server\bin\Debug\Server.exe
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Server\bin\Debug\Server.pdb
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Server\bin\Debug\Common.dll
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Server\bin\Debug\ListSingleton.dll
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Server\bin\Debug\Common.pdb
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Server\bin\Debug\ListSingleton.pdb
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Server\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Server\obj\Debug\Server.exe
+D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\ProjectTDIN\Server\obj\Debug\Server.pdb

@@ -1,0 +1,5 @@
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\ListSingletonInterface\bin\Debug\ListSingletonInterface.dll
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\ListSingletonInterface\bin\Debug\ListSingletonInterface.pdb
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\ListSingletonInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\ListSingletonInterface\obj\Debug\ListSingletonInterface.dll
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\ListSingletonInterface\obj\Debug\ListSingletonInterface.pdb

@@ -1,0 +1,8 @@
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\ListSingletonInterface\bin\Release\ListSingletonInterface.dll
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\ListSingletonInterface\bin\Release\ListSingletonInterface.pdb
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\ListSingletonInterface\obj\Release\ResolveAssemblyReference.cache
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\ListSingletonInterface\obj\Release\ListSingletonInterface.dll
+C:\Users\apm\Documents\Visual Studio 2008\Projects\RemotingWithEvents\ListSingletonInterface\obj\Release\ListSingletonInterface.pdb
+C:\Apm\Visual Studio 2008\Projects\RemotingWithEvents\ListSingletonInterface\bin\Release\ListSingletonInterface.dll
+C:\Apm\Visual Studio 2008\Projects\RemotingWithEvents\ListSingletonInterface\obj\Release\ResolveAssemblyReference.cache
+C:\Apm\Visual Studio 2008\Projects\RemotingWithEvents\ListSingletonInterface\obj\Release\ListSingletonInterface.dll
