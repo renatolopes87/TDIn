@@ -75,3 +75,13 @@ C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\Client\obj\Re
 C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\Client\obj\Release\Client.Properties.Resources.resources
 C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\Client\obj\Release\Client.csproj.GenerateResource.Cache
 C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\Client\obj\Release\Client.exe
+C:\Users\Kenny\Source\Repos\TDIn\Client\bin\Release\Client.exe.config
+C:\Users\Kenny\Source\Repos\TDIn\Client\bin\Release\Client.exe
+C:\Users\Kenny\Source\Repos\TDIn\Client\bin\Release\Common.dll
+C:\Users\Kenny\Source\Repos\TDIn\Client\obj\Release\Client.csprojResolveAssemblyReference.cache
+C:\Users\Kenny\Source\Repos\TDIn\Client\obj\Release\ClientWindow.resources
+C:\Users\Kenny\Source\Repos\TDIn\Client\obj\Release\Bill.resources
+C:\Users\Kenny\Source\Repos\TDIn\Client\obj\Release\NewItem.resources
+C:\Users\Kenny\Source\Repos\TDIn\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\Kenny\Source\Repos\TDIn\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Kenny\Source\Repos\TDIn\Client\obj\Release\Client.exe

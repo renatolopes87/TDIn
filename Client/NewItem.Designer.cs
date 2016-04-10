@@ -26,6 +26,7 @@
     /// </summary>
     private void InitializeComponent()
     {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(NewItem));
             this.okButton = new System.Windows.Forms.Button();
             this.cancelButton = new System.Windows.Forms.Button();
             this.destination = new System.Windows.Forms.ComboBox();
@@ -42,24 +43,33 @@
             // 
             // okButton
             // 
+            this.okButton.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.okButton.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("okButton.BackgroundImage")));
+            this.okButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.okButton.DialogResult = System.Windows.Forms.DialogResult.OK;
-            this.okButton.Location = new System.Drawing.Point(23, 161);
+            this.okButton.FlatAppearance.BorderSize = 0;
+            this.okButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.okButton.Location = new System.Drawing.Point(72, 161);
+            this.okButton.Margin = new System.Windows.Forms.Padding(0);
             this.okButton.Name = "okButton";
-            this.okButton.Size = new System.Drawing.Size(74, 33);
+            this.okButton.Size = new System.Drawing.Size(78, 33);
             this.okButton.TabIndex = 5;
-            this.okButton.Text = "OK";
-            this.okButton.UseVisualStyleBackColor = true;
+            this.okButton.UseVisualStyleBackColor = false;
             this.okButton.Click += new System.EventHandler(this.okButton_Click);
             // 
             // cancelButton
             // 
+            this.cancelButton.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.cancelButton.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("cancelButton.BackgroundImage")));
+            this.cancelButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.cancelButton.DialogResult = System.Windows.Forms.DialogResult.Cancel;
-            this.cancelButton.Location = new System.Drawing.Point(234, 161);
+            this.cancelButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cancelButton.Location = new System.Drawing.Point(178, 161);
+            this.cancelButton.Margin = new System.Windows.Forms.Padding(0);
             this.cancelButton.Name = "cancelButton";
-            this.cancelButton.Size = new System.Drawing.Size(74, 33);
+            this.cancelButton.Size = new System.Drawing.Size(78, 33);
             this.cancelButton.TabIndex = 6;
-            this.cancelButton.Text = "Cancel";
-            this.cancelButton.UseVisualStyleBackColor = true;
+            this.cancelButton.UseVisualStyleBackColor = false;
             // 
             // destination
             // 
@@ -75,18 +85,20 @@
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(20, 107);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(60, 13);
+            this.label1.Size = new System.Drawing.Size(56, 13);
             this.label1.TabIndex = 1;
-            this.label1.Text = "Destination";
+            this.label1.Text = "Location";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(20, 54);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(46, 13);
+            this.label2.Size = new System.Drawing.Size(54, 13);
             this.label2.TabIndex = 3;
             this.label2.Text = "Quantity";
             // 
@@ -110,9 +122,10 @@
             // label3
             // 
             this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(20, 80);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(34, 13);
+            this.label3.Size = new System.Drawing.Size(39, 13);
             this.label3.TabIndex = 7;
             this.label3.Text = "Table";
             // 
@@ -141,9 +154,10 @@
             // label4
             // 
             this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(20, 24);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(60, 13);
+            this.label4.Size = new System.Drawing.Size(71, 13);
             this.label4.TabIndex = 10;
             this.label4.Text = "Description";
             // 
@@ -178,7 +192,7 @@
             this.Name = "NewItem";
             this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-            this.Text = "New Request";
+            this.Text = "Adicionar Novo Pedido";
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).EndInit();
             this.ResumeLayout(false);

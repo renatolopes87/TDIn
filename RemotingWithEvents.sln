@@ -23,10 +23,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CE79A260-E28B-4634-884D-4A58799DD77C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternalClient", "InternalClient\InternalClient.csproj", "{858D4F91-E29C-46D9-B9F9-379DF3F5738D}"
-	ProjectSection(ProjectDependencies) = postProject
-		{9EE38943-7392-407F-A4EA-E4A695ED532A} = {9EE38943-7392-407F-A4EA-E4A695ED532A}
-		{75AC72CE-C1E7-4876-BBC2-BDE6D6396A5E} = {75AC72CE-C1E7-4876-BBC2-BDE6D6396A5E}
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

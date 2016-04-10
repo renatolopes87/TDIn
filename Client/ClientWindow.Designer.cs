@@ -32,6 +32,7 @@
     /// </summary>
     private void InitializeComponent()
     {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ClientWindow));
             this.itemListView = new System.Windows.Forms.ListView();
             this.type = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.name = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
@@ -44,6 +45,9 @@
             this.tableSelector = new System.Windows.Forms.ComboBox();
             this.label1 = new System.Windows.Forms.Label();
             this.checkBox1 = new System.Windows.Forms.CheckBox();
+            this.button1 = new System.Windows.Forms.Button();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // itemListView
@@ -57,10 +61,10 @@
             this.itemListView.FullRowSelect = true;
             this.itemListView.GridLines = true;
             this.itemListView.HideSelection = false;
-            this.itemListView.Location = new System.Drawing.Point(13, 13);
+            this.itemListView.Location = new System.Drawing.Point(30, 12);
             this.itemListView.MultiSelect = false;
             this.itemListView.Name = "itemListView";
-            this.itemListView.Size = new System.Drawing.Size(502, 372);
+            this.itemListView.Size = new System.Drawing.Size(546, 372);
             this.itemListView.TabIndex = 1;
             this.itemListView.UseCompatibleStateImageBehavior = false;
             this.itemListView.View = System.Windows.Forms.View.Details;
@@ -82,33 +86,39 @@
             // quant
             // 
             this.quant.Text = "Quantity";
+            this.quant.Width = 75;
             // 
             // table
             // 
             this.table.Text = "Table";
+            this.table.Width = 77;
             // 
             // addItemButton
             // 
+            this.addItemButton.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("addItemButton.BackgroundImage")));
+            this.addItemButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.addItemButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.addItemButton.Location = new System.Drawing.Point(13, 425);
             this.addItemButton.Name = "addItemButton";
-            this.addItemButton.Size = new System.Drawing.Size(125, 32);
+            this.addItemButton.Size = new System.Drawing.Size(51, 49);
             this.addItemButton.TabIndex = 4;
-            this.addItemButton.Text = "Add Request";
             this.addItemButton.UseVisualStyleBackColor = true;
             this.addItemButton.Click += new System.EventHandler(this.addRequestButton_Click);
             // 
             // price
             // 
+            this.price.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.price.Location = new System.Drawing.Point(390, 402);
             this.price.Name = "price";
             this.price.Size = new System.Drawing.Size(125, 32);
             this.price.TabIndex = 5;
-            this.price.Text = "Total Price";
+            this.price.Text = "Payment";
             this.price.UseVisualStyleBackColor = true;
             this.price.Click += new System.EventHandler(this.price_Click);
             // 
             // closeTable
             // 
+            this.closeTable.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.closeTable.Location = new System.Drawing.Point(390, 457);
             this.closeTable.Name = "closeTable";
             this.closeTable.Size = new System.Drawing.Size(125, 32);
@@ -129,9 +139,10 @@
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(280, 412);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(34, 13);
+            this.label1.Size = new System.Drawing.Size(39, 13);
             this.label1.TabIndex = 8;
             this.label1.Text = "Table";
             // 
@@ -139,19 +150,53 @@
             // 
             this.checkBox1.AutoSize = true;
             this.checkBox1.CheckAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.checkBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.checkBox1.Location = new System.Drawing.Point(244, 440);
             this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(130, 17);
+            this.checkBox1.Size = new System.Drawing.Size(90, 17);
             this.checkBox1.TabIndex = 9;
-            this.checkBox1.Text = "Show Only This Table";
+            this.checkBox1.Text = "Filter Table";
             this.checkBox1.UseVisualStyleBackColor = true;
             this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
+            // 
+            // button1
+            // 
+            this.button1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button1.BackgroundImage")));
+            this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.button1.Location = new System.Drawing.Point(232, 463);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(50, 42);
+            this.button1.TabIndex = 10;
+            this.button1.UseVisualStyleBackColor = true;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(295, 483);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(83, 13);
+            this.label2.TabIndex = 11;
+            this.label2.Text = "Search Table";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(70, 444);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(98, 16);
+            this.label3.TabIndex = 12;
+            this.label3.Text = "Add Request";
             // 
             // ClientWindow
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(526, 501);
+            this.ClientSize = new System.Drawing.Size(620, 517);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.tableSelector);
@@ -181,5 +226,8 @@
     private System.Windows.Forms.ComboBox tableSelector;
     private System.Windows.Forms.Label label1;
     private System.Windows.Forms.CheckBox checkBox1;
+    private System.Windows.Forms.Button button1;
+    private System.Windows.Forms.Label label2;
+    private System.Windows.Forms.Label label3;
 }
 

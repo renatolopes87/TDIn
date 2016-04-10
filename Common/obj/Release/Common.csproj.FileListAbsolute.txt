@@ -18,3 +18,6 @@ D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\Source\Commo
 D:\Dropbox\FEUP - MIEIC\4º Ano\2º Semestre\TDIN\Aulas TP\Trabalho\Source\Common\obj\Release\Common.dll
 C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\Common\bin\Release\Common.dll
 C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\Common\obj\Release\Common.dll
+C:\Users\Kenny\Source\Repos\TDIn\Common\bin\Release\Common.dll
+C:\Users\Kenny\Source\Repos\TDIn\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+C:\Users\Kenny\Source\Repos\TDIn\Common\obj\Release\Common.dll

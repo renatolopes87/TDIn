@@ -56,6 +56,7 @@
         this.itemListView.TabIndex = 1;
         this.itemListView.UseCompatibleStateImageBehavior = false;
         this.itemListView.View = System.Windows.Forms.View.Details;
+       
         // 
         // type
         // 
@@ -116,7 +117,7 @@
         this.Controls.Add(this.changeCommentButton);
         this.Controls.Add(this.itemListView);
         this.Name = "InternalClientWindow";
-        this.Text = "InternalClient "+ id + "- " + type ;
+        this.Text = "InternalClient " + id + "- " + type;
         this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.ClientWindow_FormClosed);
         this.ResumeLayout(false);
         this.PerformLayout();

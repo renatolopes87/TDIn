@@ -31,3 +31,14 @@ C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\InternalClien
 C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\InternalClient\obj\x86\Release\InternalClient.csproj.GenerateResource.Cache
 C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\InternalClient\obj\x86\Release\InternalClient.exe
 C:\Users\Kenny\Documents\Visual Studio 2015\Projects\TesteTdinProj\InternalClient\obj\x86\Release\InternalClient.pdb
+C:\Users\Kenny\Source\Repos\TDIn\InternalClient\bin\Release\InternalClient.exe.config
+C:\Users\Kenny\Source\Repos\TDIn\InternalClient\bin\Release\InternalClient.exe
+C:\Users\Kenny\Source\Repos\TDIn\InternalClient\bin\Release\InternalClient.pdb
+C:\Users\Kenny\Source\Repos\TDIn\InternalClient\bin\Release\Common.dll
+C:\Users\Kenny\Source\Repos\TDIn\InternalClient\obj\x86\Release\InternalClient.csprojResolveAssemblyReference.cache
+C:\Users\Kenny\Source\Repos\TDIn\InternalClient\obj\x86\Release\InternalClient.InitialForm.resources
+C:\Users\Kenny\Source\Repos\TDIn\InternalClient\obj\x86\Release\InternalClientWindow.resources
+C:\Users\Kenny\Source\Repos\TDIn\InternalClient\obj\x86\Release\InternalClient.Properties.Resources.resources
+C:\Users\Kenny\Source\Repos\TDIn\InternalClient\obj\x86\Release\InternalClient.csproj.GenerateResource.Cache
+C:\Users\Kenny\Source\Repos\TDIn\InternalClient\obj\x86\Release\InternalClient.exe
+C:\Users\Kenny\Source\Repos\TDIn\InternalClient\obj\x86\Release\InternalClient.pdb

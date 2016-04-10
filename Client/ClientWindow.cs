@@ -33,40 +33,27 @@ public partial class ClientWindow : Form
         tables = listServer.GetTables();
         tableSelector.DataSource = tables;
         menuList = new Dictionary<string, double>();
-        menuList.Add("A01. Calamari Fritti", 2.5);
-        menuList.Add("A02. Mini Rice Balls", 1.2);
-        menuList.Add("A03. Mozzarella Sticks", 2);
-        menuList.Add("A04. Baked Clams", 2.2);
-        menuList.Add("A05. Mussels al Forno", 2.4);
-        menuList.Add("A06. Homemade Mozzarella", 2.7);
-        menuList.Add("A07. Pasta e Fagioli", 2.4);
-        menuList.Add("A08. Roasted Octopus", 3.1);
-        menuList.Add("A09. Stuffed Artichoke", 2.1);
-        menuList.Add("A10. Hand Rolled Manicotti", 2);
-        menuList.Add("P01. Classic", 6);
-        menuList.Add("P02. Fresca", 6.9);
-        menuList.Add("P03. Vodka", 7.5);
-        menuList.Add("P04. Pesto", 7);
-        menuList.Add("P05. Bianca", 6.5);
-        menuList.Add("P06. Arugula", 7);
-        menuList.Add("GB1. Calzone", 5);
-        menuList.Add("GB2. Stromboli", 5.2);
-        menuList.Add("GB3. Broccoli Rabe Roll", 4.5);
-        menuList.Add("GB4. Prosciutto Roll", 4);
-        menuList.Add("PA1. Farfalle", 6);
-        menuList.Add("PA2. Spaghetti and Meatballs", 6.5);
-        menuList.Add("PA3. Spaghetti alla Chitarra", 6.2);
-        menuList.Add("PA4. Pappardelle", 7);
-        menuList.Add("PA5. Black Taglaitelle", 7.2);
-        menuList.Add("PA6. Lasagne Napoletana", 6.5);
-        menuList.Add("PA7. Ravioli", 6);
-        menuList.Add("PA8. Trenette", 6.5);
-        menuList.Add("PA8. Mezze Maniche", 6);
-        menuList.Add("M01. Brick Pressed Chicken", 7);
-        menuList.Add("M02. Grilled Skirt Steak", 6.7);
-        menuList.Add("M03. Chicken Milanese", 7);
-        menuList.Add("M04. Veal Scallopine", 5.9);
-        menuList.Add("M05. Striped Bass", 6.3);
+       
+        menuList.Add("A01. Arroz ao Forno", 4.2);
+        menuList.Add("A02. Pimentões assados recheados com Bacalhau", 2);
+        menuList.Add("A03. Arroz de bacalhau no forno", 2.2);
+        menuList.Add("A04. Macarrão no forno", 2.4);
+        menuList.Add("A05. Bolo bem casado com recheio de nozes", 2.7);
+        menuList.Add("A06. Feijoada de frango", 2.4);
+        menuList.Add("A07. Bacalhau de festa", 3.1);
+        menuList.Add("A08. Bolo pudim de doce de leite", 2.1);
+        menuList.Add("A09. Arroz de Lula", 2);
+
+        menuList.Add("M01. Caneloni recheado com cogumelos", 2.4);
+        menuList.Add("M02. Bife de chourizo grelhado com manteiga de ervas", 2.7);
+        menuList.Add("M03. Feijão-tropeiro", 2.4);
+        menuList.Add("M04. Virado à paulista", 3.1);
+        menuList.Add("M05. Bolo bem casado com recheio de nozes", 2.1);
+        menuList.Add("M06. Lamen chinês", 2);
+
+        menuList.Add("PA01. Fino", 0.8);
+        menuList.Add("PA02. Tosta Mista", 2.7);
+        menuList.Add("PA03. Pizza ", 2.4);
 
         evRepeater = new AlterEventRepeater();
         evRepeaterID = new AlterEventRepeaterID();
@@ -144,6 +131,7 @@ public partial class ClientWindow : Form
         {
             ListViewItem lvItem = new ListViewItem(new string[] { itemToChange.ID.ToString(), itemToChange.Description, itemToChange.State, itemToChange.Quantity.ToString(), itemToChange.Table.ToString(), itemToChange.Type.ToString() });
             itemListView.Items.Add(lvItem);
+            lvItem.BackColor =  Color.Red;//change color
             items.Add(itemToChange);
         }
         itemToChange = null;
@@ -161,11 +149,18 @@ public partial class ClientWindow : Form
                 {
                     itemListView.Items[i].SubItems[2].Text = itemToChange.State;
                     ((Item)items[i]).State = itemToChange.State;
+                    if (itemToChange.State.Equals("Ready"))
+                        itemListView.Items[i].BackColor = Color.Green;
+                    if (itemToChange.State.Equals("Preparing"))
+                        itemListView.Items[i].BackColor = Color.Yellow;
                     break;
                 }
             }
-            if (itemToChange.State.Equals("Ready"))
+
+            if (itemToChange.State.Equals("Ready")) { 
                 MessageBox.Show("Request " + itemToChange.ID + " (" + itemToChange.Description + ") is ready!");
+
+            }
         }
         itemToChange = null;
     }
@@ -227,6 +222,7 @@ public partial class ClientWindow : Form
 
     private void checkBox1_CheckedChanged(object sender, EventArgs e)
     {
+
         if (tableSelector.SelectedIndex > -1)
         {
             itemListView.Items.Clear();
@@ -271,6 +267,8 @@ public partial class ClientWindow : Form
             }
         }
     }
+
+   
 }
 
 /* Mechanism for instanciating a remote object through its interface, using the config file */

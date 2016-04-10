@@ -23,6 +23,7 @@ public partial class NewItem : Form
         desc = description.Items[description.SelectedIndex].ToString();
     }
 
+
     private void description_SelectedIndexChanged(object sender, EventArgs e)
     {
         if (description.Items[description.SelectedIndex].ToString().Substring(0, 1).Equals("A"))
