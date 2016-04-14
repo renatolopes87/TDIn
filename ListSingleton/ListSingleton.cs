@@ -162,6 +162,25 @@ public class ListSingleton : MarshalByRefObject, IListSingleton
         
     }
 
+    public void ChangePaid(int type, Boolean pd)
+    {
+        Item nitem = null;
+
+        foreach (Item it in itemsList)
+        {
+            if (it.ID == type)
+            {
+                file.WriteLine("Request number " + it.ID + " changed its paid from " + it.Paid + " to " + pd);
+                file.Flush();
+                it.Paid = pd;
+                nitem = it;
+                break;
+            }
+        }
+        NotifyClientsItem(Operation.Change, nitem);
+
+    }
+
     void NotifyClientsItem(Operation op, Item item)
     {
         if (alterEvent != null)

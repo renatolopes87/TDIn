@@ -8,11 +8,13 @@ public partial class NewItem : Form
     public int quant, table;
     public Boolean type;
     public string desc;
+    public ArrayList oktables;
 
-    public NewItem(List<String> m)
+    public NewItem(List<String> m,ArrayList oktables)
     {
         InitializeComponent();
         description.DataSource = m;
+        this.oktables = oktables;
     }
 
     private void okButton_Click(object sender, EventArgs e)
@@ -23,6 +25,21 @@ public partial class NewItem : Form
         desc = description.Items[description.SelectedIndex].ToString();
     }
 
+    private void numericUpDown2_ValueChanged(object sender, EventArgs e)
+    {
+      
+        int count = Convert.ToInt32(Math.Round(numericUpDown2.Value, 0));
+        if (this.oktables.Contains(count))
+        {
+            MessageBox.Show("This table is waiting payment");
+            okButton.Enabled = false;
+        }
+        else
+        {
+            okButton.Enabled = true;
+        }
+       
+    }
 
     private void description_SelectedIndexChanged(object sender, EventArgs e)
     {

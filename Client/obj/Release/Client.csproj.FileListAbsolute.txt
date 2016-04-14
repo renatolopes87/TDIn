@@ -85,3 +85,13 @@ C:\Users\Kenny\Source\Repos\TDIn\Client\obj\Release\NewItem.resources
 C:\Users\Kenny\Source\Repos\TDIn\Client\obj\Release\Client.Properties.Resources.resources
 C:\Users\Kenny\Source\Repos\TDIn\Client\obj\Release\Client.csproj.GenerateResource.Cache
 C:\Users\Kenny\Source\Repos\TDIn\Client\obj\Release\Client.exe
+C:\Users\Bruno da Silva\Source\Repos\TDIn\Client\bin\Release\Client.exe.config
+C:\Users\Bruno da Silva\Source\Repos\TDIn\Client\bin\Release\Client.exe
+C:\Users\Bruno da Silva\Source\Repos\TDIn\Client\bin\Release\Common.dll
+C:\Users\Bruno da Silva\Source\Repos\TDIn\Client\obj\Release\Client.csprojResolveAssemblyReference.cache
+C:\Users\Bruno da Silva\Source\Repos\TDIn\Client\obj\Release\ClientWindow.resources
+C:\Users\Bruno da Silva\Source\Repos\TDIn\Client\obj\Release\Bill.resources
+C:\Users\Bruno da Silva\Source\Repos\TDIn\Client\obj\Release\NewItem.resources
+C:\Users\Bruno da Silva\Source\Repos\TDIn\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\Bruno da Silva\Source\Repos\TDIn\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Bruno da Silva\Source\Repos\TDIn\Client\obj\Release\Client.exe

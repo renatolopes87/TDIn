@@ -107,6 +107,7 @@
             // 
             // price
             // 
+            this.price.Enabled = false;
             this.price.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.price.Location = new System.Drawing.Point(390, 402);
             this.price.Name = "price";

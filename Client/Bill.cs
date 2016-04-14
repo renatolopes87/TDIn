@@ -29,4 +29,9 @@ public partial class Bill : Form
         ListViewItem lvItemTotal = new ListViewItem(new string[] { "TOTAL", "", "", price.ToString() + " €"});
         itemListView2.Items.Add(lvItemTotal);
     }
+
+    private void itemListView2_SelectedIndexChanged(object sender, EventArgs e)
+    {
+
+    }
 }

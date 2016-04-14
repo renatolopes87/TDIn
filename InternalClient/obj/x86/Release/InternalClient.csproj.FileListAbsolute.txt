@@ -42,3 +42,14 @@ C:\Users\Kenny\Source\Repos\TDIn\InternalClient\obj\x86\Release\InternalClient.P
 C:\Users\Kenny\Source\Repos\TDIn\InternalClient\obj\x86\Release\InternalClient.csproj.GenerateResource.Cache
 C:\Users\Kenny\Source\Repos\TDIn\InternalClient\obj\x86\Release\InternalClient.exe
 C:\Users\Kenny\Source\Repos\TDIn\InternalClient\obj\x86\Release\InternalClient.pdb
+C:\Users\Bruno da Silva\Source\Repos\TDIn\InternalClient\bin\Release\InternalClient.exe.config
+C:\Users\Bruno da Silva\Source\Repos\TDIn\InternalClient\bin\Release\InternalClient.exe
+C:\Users\Bruno da Silva\Source\Repos\TDIn\InternalClient\bin\Release\InternalClient.pdb
+C:\Users\Bruno da Silva\Source\Repos\TDIn\InternalClient\bin\Release\Common.dll
+C:\Users\Bruno da Silva\Source\Repos\TDIn\InternalClient\obj\x86\Release\InternalClient.csprojResolveAssemblyReference.cache
+C:\Users\Bruno da Silva\Source\Repos\TDIn\InternalClient\obj\x86\Release\InternalClient.InitialForm.resources
+C:\Users\Bruno da Silva\Source\Repos\TDIn\InternalClient\obj\x86\Release\InternalClientWindow.resources
+C:\Users\Bruno da Silva\Source\Repos\TDIn\InternalClient\obj\x86\Release\InternalClient.Properties.Resources.resources
+C:\Users\Bruno da Silva\Source\Repos\TDIn\InternalClient\obj\x86\Release\InternalClient.csproj.GenerateResource.Cache
+C:\Users\Bruno da Silva\Source\Repos\TDIn\InternalClient\obj\x86\Release\InternalClient.exe
+C:\Users\Bruno da Silva\Source\Repos\TDIn\InternalClient\obj\x86\Release\InternalClient.pdb

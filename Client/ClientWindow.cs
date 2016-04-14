@@ -129,6 +129,7 @@ public partial class ClientWindow : Form
             Invoke(new MethodInvoker(UpdateNew));
         else
         {
+           
             ListViewItem lvItem = new ListViewItem(new string[] { itemToChange.ID.ToString(), itemToChange.Description, itemToChange.State, itemToChange.Quantity.ToString(), itemToChange.Table.ToString(), itemToChange.Type.ToString() });
             itemListView.Items.Add(lvItem);
             lvItem.BackColor =  Color.Red;//change color
@@ -145,14 +146,21 @@ public partial class ClientWindow : Form
         {
             for (int i = 0; i < items.Count; i++)
             {
+                
                 if (((Item)items[i]).ID == itemToChange.ID)
                 {
+                  
+
                     itemListView.Items[i].SubItems[2].Text = itemToChange.State;
                     ((Item)items[i]).State = itemToChange.State;
                     if (itemToChange.State.Equals("Ready"))
                         itemListView.Items[i].BackColor = Color.Green;
                     if (itemToChange.State.Equals("Preparing"))
                         itemListView.Items[i].BackColor = Color.Yellow;
+                    if (itemToChange.Paid == true)
+                    {
+                        itemListView.Items[i].BackColor = Color.Blue;
+                    }
                     break;
                 }
             }
@@ -173,12 +181,24 @@ public partial class ClientWindow : Form
 
     private void addRequestButton_Click(object sender, EventArgs e)
     {
+        ArrayList oktables = new ArrayList();
+        items = listServer.GetList();
+        foreach(Item i in items)
+        {
+            
+            if (i.Paid==true)
+            {
+               
+                if (!oktables.Contains(i.Table))
+                oktables.Add(i.Table);
+            }
+        }
         Console.WriteLine("addItemButton_Click()");
         List<string> list = new List<string>(menuList.Keys);
-        NewItem newIt = new NewItem(list);
+        NewItem newIt = new NewItem(list,oktables);
         if (newIt.ShowDialog(this) == DialogResult.OK)
         {
-            Item it = new Item(listServer.GetNewType(), newIt.desc, "Waiting", newIt.quant, newIt.table, menuList[newIt.desc], newIt.type);
+            Item it = new Item(listServer.GetNewType(), newIt.desc, "Waiting", newIt.quant, newIt.table, menuList[newIt.desc], newIt.type,false);
             listServer.AddItem(it);
         }
     }
@@ -213,6 +233,9 @@ public partial class ClientWindow : Form
                         bill[i.Description] += i.Quantity;
 
                     price += i.Quantity * i.Price;
+                    listServer.ChangePaid(i.ID, true);
+                    listServer.ChangeState(i.ID, "Waiting payment");
+                    MessageBox.Show("The item "+i.Description+" is waiting for payment!");
                 }
             Bill b = new Bill(bill, menuList, t, price);
             b.Show();
@@ -241,7 +264,7 @@ public partial class ClientWindow : Form
         foreach (Item it in items)
             if (it.Table == t)
             {
-                ListViewItem lvItem = new ListViewItem(new string[] { it.ID.ToString(), it.Description, it.State, it.Quantity.ToString(), it.Table.ToString(), it.Type.ToString() });
+                ListViewItem lvItem = new ListViewItem(new string[] { it.ID.ToString(), it.Description, it.State, it.Quantity.ToString(), it.Table.ToString(), it.Type.ToString(),it.Paid.ToString() });
                 itemListView.Items.Add(lvItem);
             }
     }
@@ -250,7 +273,9 @@ public partial class ClientWindow : Form
     {
         foreach (Item it in items)
         {
-            ListViewItem lvItem = new ListViewItem(new string[] { it.ID.ToString(), it.Description, it.State, it.Quantity.ToString(), it.Table.ToString(), it.Type.ToString() });
+            
+            ListViewItem lvItem = new ListViewItem(new string[] { it.ID.ToString(), it.Description, it.State, it.Quantity.ToString(), it.Table.ToString(), it.Type.ToString(), it.Paid.ToString() });
+
             itemListView.Items.Add(lvItem);
         }
     }
@@ -259,16 +284,38 @@ public partial class ClientWindow : Form
     {
         if (tableSelector.SelectedIndex > -1)
         {
+            int t = Convert.ToInt32(tableSelector.Items[tableSelector.SelectedIndex].ToString());
+            foreach (Item i in items)
+            {
+                if (!i.Table.Equals(t))
+                {
+                    continue;
+                }
+                else
+                {
+                    if (i.State.Equals("Ready"))
+                    {
+                        price.Enabled = true;
+                    }
+                    else
+                    {
+                        price.Enabled = false;
+                    }
+                }
+              
+            }
             if (checkBox1.Checked)
             {
                 itemListView.Items.Clear();
-                int t = Convert.ToInt32(tableSelector.Items[tableSelector.SelectedIndex].ToString());
+               
                 addAllItems(t);
+                
             }
         }
+      
     }
 
-   
+  
 }
 
 /* Mechanism for instanciating a remote object through its interface, using the config file */

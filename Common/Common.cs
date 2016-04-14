@@ -8,11 +8,12 @@ public class Item {
   public Boolean Type;          //0 = kitchen, 1= bar
   public string Description {get; set;}
   public string State {get; set;}
+  public Boolean Paid { get; set; } //0 = No, 1=Yes
 
-  public Item() : this(0, "default", "default", 0, 0, 0, false) {
+    public Item() : this(0, "default", "default", 0, 0, 0, false,false) {
   }
 
-  public Item(int id, string desc, string st, int qt, int tab, double p,  Boolean itype) {
+  public Item(int id, string desc, string st, int qt, int tab, double p,  Boolean itype, Boolean pd) {
     ID = id;
     Description = desc;
     State = st;
@@ -20,6 +21,7 @@ public class Item {
     Table = tab;
     Type = itype;
     Price = p;
+    Paid = pd;
   }
 
 }
@@ -61,6 +63,7 @@ public interface IListSingleton {
   void AddItem(Item item);
   void AddClient(AppClient cli);
   void ChangeState(int type, string comment);
+  void ChangePaid(int type, Boolean pd);
   void CloseTable(int p);
 }
 

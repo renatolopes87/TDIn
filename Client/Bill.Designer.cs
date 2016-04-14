@@ -55,6 +55,7 @@
             this.itemListView2.TabIndex = 1;
             this.itemListView2.UseCompatibleStateImageBehavior = false;
             this.itemListView2.View = System.Windows.Forms.View.Details;
+            this.itemListView2.SelectedIndexChanged += new System.EventHandler(this.itemListView2_SelectedIndexChanged);
             // 
             // name
             // 
