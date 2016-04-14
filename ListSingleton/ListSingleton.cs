@@ -158,7 +158,7 @@ public class ListSingleton : MarshalByRefObject, IListSingleton
                 break;
             }
         }
-        NotifyClientsItem(Operation.Change, nitem);
+        NotifyClientsItem(Operation.Change,  nitem);
         
     }
 

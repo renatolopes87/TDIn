@@ -22,7 +22,7 @@ public class Item {
     Type = itype;
     Price = p;
     Paid = pd;
-  }
+   } 
 
 }
 

@@ -36,7 +36,7 @@ public partial class NewItem : Form
         }
         else
         {
-            okButton.Enabled = true;
+            okButton.Enabled =  true;
         }
        
     }

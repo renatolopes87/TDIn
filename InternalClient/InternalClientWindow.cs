@@ -13,7 +13,7 @@ public partial class InternalClientWindow : Form
     ArrayList items;
     int ClientID;
     string InternalType;
-    Item itemToChange;
+    Item itemToChange ;
     delegate ListViewItem LVAddDelegate(ListViewItem lvItem);
     delegate void ChStateDelegate(Item item);
 

@@ -186,7 +186,7 @@ public partial class ClientWindow : Form
         foreach(Item i in items)
         {
             
-            if (i.Paid==true)
+            if (i.Paid== true)
             {
                
                 if (!oktables.Contains(i.Table))
