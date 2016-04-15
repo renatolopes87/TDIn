@@ -128,8 +128,7 @@ public partial class ClientWindow : Form
                 tables.Remove(table);
                 break;
         }
-       // tableSelector.DataSource = null;
-      //  tableSelector.DataSource = tables;
+
     }
 
     void UpdateNew()
@@ -218,8 +217,27 @@ public partial class ClientWindow : Form
         
         if (int.TryParse(textBox_search.Text, out value))
         {
-
+            foreach (Item it in items)
+            {
+                if (it.Table == value && !it.State.Equals("Waiting payment")) { 
+                    MessageBox.Show("Waiting payment request" );
+                return;
+                }
+            }
             listServer.CloseTable(value);
+            items = listServer.GetList();
+             addAllItems();
+             tables = listServer.GetTables();
+            //itemListView.Items..items=items;
+            this.ClearItemListView();
+            foreach (Item it in items)
+            {
+                ListViewItem lvItem = new ListViewItem(new string[] { it.ID.ToString(), it.Description, it.State,
+                    it.Quantity.ToString(), it.Table.ToString(), it.Type.ToString() });
+                itemListView.Items.Add(lvItem);
+
+            }
+            
         }
         else
         {

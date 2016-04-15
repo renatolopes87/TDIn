@@ -1,5 +1,32 @@
-Logfile started at 15/04/2016 14:54:37
-Table inserted in the system: 1
-New request inserted in the system: 1 - 1 x A01. Arroz ao Forno on table 1
+Logfile started at 15/04/2016 16:08:49
+New InternalClient added: 1 -> kitchen
+Table inserted in the system: 2
+New request inserted in the system: 1 - 1 x A01. Arroz ao Forno on table 2
+Request number 1 changed its state from Waiting to Preparing
+Request number 1 changed its state from Preparing to Ready
+Request number 1 changed its paid from False to True
+Request number 1 changed its state from Ready to Waiting payment
+Request removed from the system: 1 - 1 x A01. Arroz ao Forno on table 2
+Table removed from the system: 2
 Table inserted in the system: 3
 New request inserted in the system: 2 - 1 x A01. Arroz ao Forno on table 3
+New request inserted in the system: 3 - 1 x A01. Arroz ao Forno on table 3
+New request inserted in the system: 4 - 2 x A03. Arroz de bacalhau no forno on table 3
+Table inserted in the system: 2
+New request inserted in the system: 5 - 1 x A03. Arroz de bacalhau no forno on table 2
+Request number 3 changed its state from Waiting to Preparing
+Request number 3 changed its state from Preparing to Ready
+Request number 2 changed its state from Waiting to Preparing
+Request number 2 changed its state from Preparing to Ready
+Request number 4 changed its state from Waiting to Preparing
+Request number 4 changed its state from Preparing to Ready
+Request number 2 changed its paid from False to True
+Request number 2 changed its state from Ready to Waiting payment
+Request number 3 changed its paid from False to True
+Request number 3 changed its state from Ready to Waiting payment
+Request number 4 changed its paid from False to True
+Request number 4 changed its state from Ready to Waiting payment
+Request removed from the system: 4 - 2 x A03. Arroz de bacalhau no forno on table 3
+Request removed from the system: 3 - 1 x A01. Arroz ao Forno on table 3
+Request removed from the system: 2 - 1 x A01. Arroz ao Forno on table 3
+Table removed from the system: 3
