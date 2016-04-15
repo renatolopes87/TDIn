@@ -21,7 +21,7 @@ public class ListSingleton : MarshalByRefObject, IListSingleton
         tablesList = new ArrayList();
         Console.WriteLine("Constructor called.");
         file = new System.IO.StreamWriter(@"logfile.txt");
-        file.WriteLine("Logfile started at " +  DateTime.Now);
+        file.WriteLine("Logfile started at " + DateTime.Now);
         file.Flush();
         this.id = itemsList.Count + 1;
     }
@@ -85,7 +85,7 @@ public class ListSingleton : MarshalByRefObject, IListSingleton
             file.WriteLine("Table inserted in the system: " + item.Table);
         }
         NotifyClientsItem(Operation.New, item);
-        file.WriteLine("New request inserted in the system: " + item.ID + " - " + item.Quantity + " x " + item.Description + 
+        file.WriteLine("New request inserted in the system: " + item.ID + " - " + item.Quantity + " x " + item.Description +
             " on table " + item.Table);
         file.Flush();
     }
@@ -117,20 +117,20 @@ public class ListSingleton : MarshalByRefObject, IListSingleton
         for (int i = itemsList.Count - 1; i >= 0; i--)
         {
             Item it = (Item)itemsList[i];
-            
+
             if (it.Table == t)
             {
                 delete.Add(it.ID);
                 itemsList.RemoveAt(i);
                 file.WriteLine("Request removed from the system: " + it.ID + " - " + it.Quantity + " x " + it.Description +
             " on table " + it.Table);
-               
+
             }
             it = null;
         }
         NotifyClientsItem(Operation.Delete, delete);
         tablesList.Remove(t);
-        NotifyClientsTable(Operation.Change, t);       
+        NotifyClientsTable(Operation.Change, t);
         file.WriteLine("Table removed from the system: " + t);
         file.Flush();
     }
@@ -154,12 +154,31 @@ public class ListSingleton : MarshalByRefObject, IListSingleton
                 file.WriteLine("Request number " + it.ID + " changed its state from " + it.State + " to " + st);
                 file.Flush();
                 it.State = st;
-                nitem = it;               
+                nitem = it;
                 break;
             }
         }
         NotifyClientsItem(Operation.Change, nitem);
-        
+
+    }
+
+    public void ChangePaid(int type, Boolean pd)
+    {
+        Item nitem = null;
+
+        foreach (Item it in itemsList)
+        {
+            if (it.ID == type)
+            {
+                file.WriteLine("Request number " + it.ID + " changed its paid from " + it.Paid + " to " + pd);
+                file.Flush();
+                it.Paid = pd;
+                nitem = it;
+                break;
+            }
+        }
+        NotifyClientsItem(Operation.Change, nitem);
+
     }
 
     void NotifyClientsItem(Operation op, Item item)

@@ -1,9 +1,5 @@
-Logfile started at 10/04/2016 17:23:20
-New InternalClient added: 1 -> kitchen
+Logfile started at 15/04/2016 14:54:37
 Table inserted in the system: 1
 New request inserted in the system: 1 - 1 x A01. Arroz ao Forno on table 1
-New request inserted in the system: 2 - 1 x A01. Arroz ao Forno on table 1
-Request number 1 changed its state from Waiting to Preparing
-Request number 1 changed its state from Preparing to Ready
-Request number 2 changed its state from Waiting to Preparing
-Request number 2 changed its state from Preparing to Ready
+Table inserted in the system: 3
+New request inserted in the system: 2 - 1 x A01. Arroz ao Forno on table 3

@@ -1,9 +1,14 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
 using System.Collections;
 using System.Runtime.Remoting;
-using System.ComponentModel;
-using System.Drawing;
-using System.Windows.Forms;
+
 
 public partial class InternalClientWindow : Form
 {
@@ -41,6 +46,7 @@ public partial class InternalClientWindow : Form
         {
             ListViewItem lvItem = new ListViewItem(new string[] { it.ID.ToString(), it.Description, it.State, it.Table.ToString(), it.Quantity.ToString(), this.InternalType });
             itemListView.Items.Add(lvItem);
+           
         }
         Console.WriteLine("InternalClientWindow()");
     }
@@ -98,9 +104,14 @@ public partial class InternalClientWindow : Form
                 dest = "bar";
             if (dest == this.InternalType)
             {
-                ListViewItem lvItem = new ListViewItem(new string[] { itemToChange.ID.ToString(), itemToChange.Description, itemToChange.State, itemToChange.Table.ToString(), itemToChange.Quantity.ToString(), dest });
+                ListViewItem lvItem = new ListViewItem(new string[] { itemToChange.ID.ToString(),
+                    itemToChange.Description, itemToChange.State, itemToChange.Table.ToString(),
+                    itemToChange.Quantity.ToString(), dest });
+                if (itemToChange.State.Equals("Waiting"))
+                    lvItem.BackColor = Color.Red;
                 itemListView.Items.Add(lvItem);
                 items.Add(itemToChange);
+               
             }
         }
         itemToChange = null;
@@ -127,6 +138,9 @@ public partial class InternalClientWindow : Form
                         {
                             itemListView.Items[i].SubItems[2].Text = itemToChange.State;
                             ((Item)items[i]).State = itemToChange.State;
+                            if (((Item)items[i]).State.Equals("Preparing"))
+                                itemListView.Items[i].BackColor = Color.Yellow;
+                           
                         }
                         break;
                     }

@@ -2,25 +2,30 @@
 using System.Collections;
 
 [Serializable]
-public class Item {
-  public int ID, Quantity, Table;
-  public double Price;
-  public Boolean Type;          //0 = kitchen, 1= bar
-  public string Description {get; set;}
-  public string State {get; set;}
+public class Item
+{
+    public int ID, Quantity, Table;
+    public double Price;
+    public Boolean Type;          //0 = kitchen, 1= bar
+    public string Description { get; set; }
+    public string State { get; set; }
+    public Boolean Paid { get; set; } //0 = No, 1=Yes
 
-  public Item() : this(0, "default", "default", 0, 0, 0, false) {
-  }
+    public Item() : this(0, "default", "default", 0, 0, 0, false, false)
+    {
+    }
 
-  public Item(int id, string desc, string st, int qt, int tab, double p,  Boolean itype) {
-    ID = id;
-    Description = desc;
-    State = st;
-    Quantity = qt;
-    Table = tab;
-    Type = itype;
-    Price = p;
-  }
+    public Item(int id, string desc, string st, int qt, int tab, double p, Boolean itype, Boolean pd)
+    {
+        ID = id;
+        Description = desc;
+        State = st;
+        Quantity = qt;
+        Table = tab;
+        Type = itype;
+        Price = p;
+        Paid = pd;
+    }
 
 }
 
@@ -48,20 +53,22 @@ public delegate void AlterDelegateClient(Operation op, AppClient cli);
 
 public delegate void AlterDelegateTable(Operation op, int table);
 
-public interface IListSingleton {
-  event AlterDelegate alterEvent;
-  event AlterDelegateID alterEventID;
-  event AlterDelegateTable alterEventTable;
-  ArrayList GetList();
-  ArrayList GetInternalList(string t);
-  ArrayList GetClientsList();
-  ArrayList GetTables();
-  int GetNewType();
-  int GetNewTypeClient();
-  void AddItem(Item item);
-  void AddClient(AppClient cli);
-  void ChangeState(int type, string comment);
-  void CloseTable(int p);
+public interface IListSingleton
+{
+    event AlterDelegate alterEvent;
+    event AlterDelegateID alterEventID;
+    event AlterDelegateTable alterEventTable;
+    ArrayList GetList();
+    ArrayList GetInternalList(string t);
+    ArrayList GetClientsList();
+    ArrayList GetTables();
+    int GetNewType();
+    int GetNewTypeClient();
+    void AddItem(Item item);
+    void AddClient(AppClient cli);
+    void ChangeState(int type, string comment);
+    void ChangePaid(int type, Boolean pd);
+    void CloseTable(int p);
 }
 
 public class AlterEventRepeater : MarshalByRefObject

@@ -31,7 +31,7 @@ public partial class ClientWindow : Form
         items = listServer.GetList();
         addAllItems();
         tables = listServer.GetTables();
-        tableSelector.DataSource = tables;
+       /// tableSelector.DataSource = tables;
         menuList = new Dictionary<string, double>();
        
         menuList.Add("A01. Arroz ao Forno", 4.2);
@@ -50,10 +50,19 @@ public partial class ClientWindow : Form
         menuList.Add("M04. Virado à paulista", 3.1);
         menuList.Add("M05. Bolo bem casado com recheio de nozes", 2.1);
         menuList.Add("M06. Lamen chinês", 2);
-
+        menuList.Add("GB1. Calzone", 5);
+        menuList.Add("GB2. Stromboli", 5.2);
+        menuList.Add("GB3. Broccoli Rabe Roll", 4.5);
+        menuList.Add("GB4. Prosciutto Roll", 4);
         menuList.Add("PA01. Fino", 0.8);
         menuList.Add("PA02. Tosta Mista", 2.7);
         menuList.Add("PA03. Pizza ", 2.4);
+        menuList.Add("P01. Classic", 6);
+        menuList.Add("P02. Fresca", 6.9);
+        menuList.Add("P03. Vodka", 7.5);
+        menuList.Add("P04. Pesto", 7);
+        menuList.Add("P05. Bianca", 6.5);
+        menuList.Add("P06. Arugula", 7);
 
         evRepeater = new AlterEventRepeater();
         evRepeaterID = new AlterEventRepeaterID();
@@ -119,8 +128,8 @@ public partial class ClientWindow : Form
                 tables.Remove(table);
                 break;
         }
-        tableSelector.DataSource = null;
-        tableSelector.DataSource = tables;
+       // tableSelector.DataSource = null;
+      //  tableSelector.DataSource = tables;
     }
 
     void UpdateNew()
@@ -129,7 +138,9 @@ public partial class ClientWindow : Form
             Invoke(new MethodInvoker(UpdateNew));
         else
         {
-            ListViewItem lvItem = new ListViewItem(new string[] { itemToChange.ID.ToString(), itemToChange.Description, itemToChange.State, itemToChange.Quantity.ToString(), itemToChange.Table.ToString(), itemToChange.Type.ToString() });
+            ListViewItem lvItem = new ListViewItem(new string[] { itemToChange.ID.ToString(),
+                itemToChange.Description, itemToChange.State, itemToChange.Quantity.ToString(),
+                itemToChange.Table.ToString(), itemToChange.Type.ToString() });
             itemListView.Items.Add(lvItem);
             lvItem.BackColor =  Color.Red;//change color
             items.Add(itemToChange);
@@ -173,12 +184,25 @@ public partial class ClientWindow : Form
 
     private void addRequestButton_Click(object sender, EventArgs e)
     {
+        ArrayList oktables = new ArrayList();
+        items = listServer.GetList();
+        foreach (Item i in items)
+        {
+
+            if (i.Paid == true)
+            {
+
+                if (!oktables.Contains(i.Table))
+                    oktables.Add(i.Table);
+            }
+        }
         Console.WriteLine("addItemButton_Click()");
         List<string> list = new List<string>(menuList.Keys);
-        NewItem newIt = new NewItem(list);
+        NewItem newIt = new NewItem(list, oktables);
         if (newIt.ShowDialog(this) == DialogResult.OK)
         {
-            Item it = new Item(listServer.GetNewType(), newIt.desc, "Waiting", newIt.quant, newIt.table, menuList[newIt.desc], newIt.type);
+            Item it = new Item(listServer.GetNewType(), newIt.desc, 
+                "Waiting", newIt.quant, newIt.table, menuList[newIt.desc], newIt.type, false);
             listServer.AddItem(it);
         }
     }
@@ -190,51 +214,75 @@ public partial class ClientWindow : Form
 
     private void closeTable_Click(object sender, EventArgs e)
     {
-        if (tableSelector.SelectedIndex > -1)
+        int value;
+        
+        if (int.TryParse(textBox_search.Text, out value))
         {
-            int t = Convert.ToInt32(tableSelector.Items[tableSelector.SelectedIndex].ToString());
-            listServer.CloseTable(t);
+
+            listServer.CloseTable(value);
+        }
+        else
+        {
+            //parsing failed. 
+            MessageBox.Show("Please Enter Valid number: " + textBox_search.Text);
         }
     }
+    public Boolean tryToFinishPayment(int val) {
+        ArrayList itpre=new ArrayList();
+        Boolean b = false;
+        foreach (Item i in items) {
+            if ( i.Table == val)
+                itpre.Add(i);
 
+        }
+        int c = 0;
+        foreach (Item it in itpre) { 
+            if (it.State.Equals("Ready"))
+                c++;
+        }
+        if (c == itpre.Count)
+            b = true;
+        return b;
+    }
     private void price_Click(object sender, EventArgs e)
     {
-        if (tableSelector.SelectedIndex > -1)
+        int t;
+
+        if (int.TryParse(textBox_search.Text, out t))
         {
-            int t = Convert.ToInt32(tableSelector.Items[tableSelector.SelectedIndex].ToString());
-            Dictionary<string, int> bill = new Dictionary<string, int>();
-            double price = 0.0;
-            foreach (Item i in items)
-                if (i.Table == t)
-                {
-                    if (!bill.ContainsKey(i.Description))
-                        bill.Add(i.Description, i.Quantity);
-                    else
-                        bill[i.Description] += i.Quantity;
-
-                    price += i.Quantity * i.Price;
-                }
-            Bill b = new Bill(bill, menuList, t, price);
-            b.Show();
-
-        }
-    }
-
-    private void checkBox1_CheckedChanged(object sender, EventArgs e)
-    {
-
-        if (tableSelector.SelectedIndex > -1)
-        {
-            itemListView.Items.Clear();
-            if (checkBox1.Checked)
+            if (this.tryToFinishPayment(t) == true)
             {
-                int t = Convert.ToInt32(tableSelector.Items[tableSelector.SelectedIndex].ToString());
-                addAllItems(t);
+
+                Dictionary<string, int> bill = new Dictionary<string, int>();
+                double price = 0.0;
+                foreach (Item i in items)
+                    if (i.Table == t)
+                    {
+                        if (!bill.ContainsKey(i.Description))
+                            bill.Add(i.Description, i.Quantity);
+                        else
+                            bill[i.Description] += i.Quantity;
+
+                        price += i.Quantity * i.Price;
+                        listServer.ChangePaid(i.ID, true);
+                        listServer.ChangeState(i.ID, "Waiting payment");
+                        MessageBox.Show("The item " + i.Description + " is waiting for payment!");
+                    }
+                Bill b = new Bill(bill, menuList, t, price);
+                b.Show();
+            }///Finish try payment
+            else {
+                MessageBox.Show("All items are still to be ready. Please wait!");
             }
-            else
-                addAllItems();
+        }
+        else
+        {
+            //parsing failed. 
+            MessageBox.Show("Please Enter Valid number: " + textBox_search.Text);
         }
     }
+
+   
 
     private void addAllItems(int t)
     {
@@ -255,20 +303,55 @@ public partial class ClientWindow : Form
         }
     }
 
-    private void tableSelector_SelectedIndexChanged(object sender, EventArgs e)
+    private void button1_Click(object sender, EventArgs e)
     {
-        if (tableSelector.SelectedIndex > -1)
+
+
+        int value;
+        double pr=0;
+
+        if (int.TryParse(textBox_search.Text, out value))
         {
-            if (checkBox1.Checked)
-            {
-                itemListView.Items.Clear();
-                int t = Convert.ToInt32(tableSelector.Items[tableSelector.SelectedIndex].ToString());
-                addAllItems(t);
-            }
+            //parsing successful 
+           
+            ListView lv = new ListView();
+            String tp = "";
+            //code teste
+            /// itemListView.se
+            SearchByTable sch = new SearchByTable(value);
+            foreach (Item i in items)
+                if (i.Table == value)
+                {
+                    if (i.Type == true)
+                        tp = "bar";
+                    else
+                        tp = "kitchen";
+                   ListViewItem lvItemn = new ListViewItem(new string[] {i.ID.ToString(),
+                   i.Description, i.State, i.Quantity.ToString(),i.Price.ToString()+"€",
+                   i.Table.ToString() ,tp});
+                    if (i.State.Equals("Ready"))
+                        lvItemn.BackColor = Color.Green;
+                  else  if (i.State.Equals("Preparing"))
+                        lvItemn.BackColor = Color.Yellow;
+                    else
+                        lvItemn.BackColor = Color.Red;
+                    sch.itemListView.Items.Add(lvItemn);
+                    pr+= i.Price * i.Quantity;
+                    //  MessageBox.Show("number: " + i.Type.ToString());
+                   
+                }
+            if(sch.itemListView.Items.Count<1)
+                sch.label_TotalValue.Text = "NO REQUEST AVAILABLE...TRY A DIFERENTE TABLE";
+            else
+            sch.label_TotalValue.Text = ""+pr+"€";
+            sch.Show();
+        }
+        else
+        {
+            //parsing failed. 
+            MessageBox.Show("Please Enter Valid number: " + textBox_search.Text);
         }
     }
-
-   
 }
 
 /* Mechanism for instanciating a remote object through its interface, using the config file */

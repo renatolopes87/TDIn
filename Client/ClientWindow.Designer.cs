@@ -42,12 +42,12 @@
             this.addItemButton = new System.Windows.Forms.Button();
             this.price = new System.Windows.Forms.Button();
             this.closeTable = new System.Windows.Forms.Button();
-            this.tableSelector = new System.Windows.Forms.ComboBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.checkBox1 = new System.Windows.Forms.CheckBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
+            this.button_search = new System.Windows.Forms.Button();
+            this.label_search = new System.Windows.Forms.Label();
+            this.label_addReq = new System.Windows.Forms.Label();
+            this.textBox_search = new System.Windows.Forms.TextBox();
+            this.label_payment = new System.Windows.Forms.Label();
+            this.label_close = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // itemListView
@@ -98,7 +98,7 @@
             this.addItemButton.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("addItemButton.BackgroundImage")));
             this.addItemButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.addItemButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.addItemButton.Location = new System.Drawing.Point(13, 425);
+            this.addItemButton.Location = new System.Drawing.Point(30, 408);
             this.addItemButton.Name = "addItemButton";
             this.addItemButton.Size = new System.Drawing.Size(51, 49);
             this.addItemButton.TabIndex = 4;
@@ -107,99 +107,97 @@
             // 
             // price
             // 
+            this.price.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("price.BackgroundImage")));
+            this.price.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.price.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.price.Location = new System.Drawing.Point(390, 402);
+            this.price.Location = new System.Drawing.Point(456, 410);
             this.price.Name = "price";
-            this.price.Size = new System.Drawing.Size(125, 32);
+            this.price.Size = new System.Drawing.Size(59, 41);
             this.price.TabIndex = 5;
-            this.price.Text = "Payment";
             this.price.UseVisualStyleBackColor = true;
             this.price.Click += new System.EventHandler(this.price_Click);
             // 
             // closeTable
             // 
+            this.closeTable.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("closeTable.BackgroundImage")));
+            this.closeTable.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.closeTable.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.closeTable.Location = new System.Drawing.Point(390, 457);
+            this.closeTable.Location = new System.Drawing.Point(456, 457);
             this.closeTable.Name = "closeTable";
-            this.closeTable.Size = new System.Drawing.Size(125, 32);
+            this.closeTable.Size = new System.Drawing.Size(59, 48);
             this.closeTable.TabIndex = 6;
-            this.closeTable.Text = "Close Table";
             this.closeTable.UseVisualStyleBackColor = true;
             this.closeTable.Click += new System.EventHandler(this.closeTable_Click);
             // 
-            // tableSelector
+            // button_search
             // 
-            this.tableSelector.FormattingEnabled = true;
-            this.tableSelector.Location = new System.Drawing.Point(321, 409);
-            this.tableSelector.Name = "tableSelector";
-            this.tableSelector.Size = new System.Drawing.Size(53, 21);
-            this.tableSelector.TabIndex = 7;
-            this.tableSelector.SelectedIndexChanged += new System.EventHandler(this.tableSelector_SelectedIndexChanged);
+            this.button_search.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button_search.BackgroundImage")));
+            this.button_search.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.button_search.Location = new System.Drawing.Point(33, 465);
+            this.button_search.Name = "button_search";
+            this.button_search.Size = new System.Drawing.Size(48, 40);
+            this.button_search.TabIndex = 10;
+            this.button_search.UseVisualStyleBackColor = true;
+            this.button_search.Click += new System.EventHandler(this.button1_Click);
             // 
-            // label1
+            // label_search
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(280, 412);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(39, 13);
-            this.label1.TabIndex = 8;
-            this.label1.Text = "Table";
+            this.label_search.AutoSize = true;
+            this.label_search.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label_search.Location = new System.Drawing.Point(87, 492);
+            this.label_search.Name = "label_search";
+            this.label_search.Size = new System.Drawing.Size(83, 13);
+            this.label_search.TabIndex = 11;
+            this.label_search.Text = "Search Table";
             // 
-            // checkBox1
+            // label_addReq
             // 
-            this.checkBox1.AutoSize = true;
-            this.checkBox1.CheckAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.checkBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkBox1.Location = new System.Drawing.Point(244, 440);
-            this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(90, 17);
-            this.checkBox1.TabIndex = 9;
-            this.checkBox1.Text = "Filter Table";
-            this.checkBox1.UseVisualStyleBackColor = true;
-            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
+            this.label_addReq.AutoSize = true;
+            this.label_addReq.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label_addReq.Location = new System.Drawing.Point(87, 424);
+            this.label_addReq.Name = "label_addReq";
+            this.label_addReq.Size = new System.Drawing.Size(98, 16);
+            this.label_addReq.TabIndex = 12;
+            this.label_addReq.Text = "Add Request";
             // 
-            // button1
+            // textBox_search
             // 
-            this.button1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button1.BackgroundImage")));
-            this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.button1.Location = new System.Drawing.Point(232, 463);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(50, 42);
-            this.button1.TabIndex = 10;
-            this.button1.UseVisualStyleBackColor = true;
+            this.textBox_search.Location = new System.Drawing.Point(90, 465);
+            this.textBox_search.Name = "textBox_search";
+            this.textBox_search.Size = new System.Drawing.Size(61, 20);
+            this.textBox_search.TabIndex = 13;
             // 
-            // label2
+            // label_payment
             // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(295, 483);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(83, 13);
-            this.label2.TabIndex = 11;
-            this.label2.Text = "Search Table";
+            this.label_payment.AutoSize = true;
+            this.label_payment.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label_payment.Location = new System.Drawing.Point(521, 424);
+            this.label_payment.Name = "label_payment";
+            this.label_payment.Size = new System.Drawing.Size(55, 13);
+            this.label_payment.TabIndex = 14;
+            this.label_payment.Text = "Payment";
             // 
-            // label3
+            // label_close
             // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(70, 444);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(98, 16);
-            this.label3.TabIndex = 12;
-            this.label3.Text = "Add Request";
+            this.label_close.AutoSize = true;
+            this.label_close.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label_close.Location = new System.Drawing.Point(521, 479);
+            this.label_close.Name = "label_close";
+            this.label_close.Size = new System.Drawing.Size(74, 13);
+            this.label_close.TabIndex = 15;
+            this.label_close.Text = "Close Table";
             // 
             // ClientWindow
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(620, 517);
-            this.Controls.Add(this.label3);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.checkBox1);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.tableSelector);
+            this.Controls.Add(this.label_close);
+            this.Controls.Add(this.label_payment);
+            this.Controls.Add(this.textBox_search);
+            this.Controls.Add(this.label_addReq);
+            this.Controls.Add(this.label_search);
+            this.Controls.Add(this.button_search);
             this.Controls.Add(this.closeTable);
             this.Controls.Add(this.price);
             this.Controls.Add(this.addItemButton);
@@ -223,11 +221,11 @@
     private System.Windows.Forms.ColumnHeader table;
     private System.Windows.Forms.Button price;
     private System.Windows.Forms.Button closeTable;
-    private System.Windows.Forms.ComboBox tableSelector;
-    private System.Windows.Forms.Label label1;
-    private System.Windows.Forms.CheckBox checkBox1;
-    private System.Windows.Forms.Button button1;
-    private System.Windows.Forms.Label label2;
-    private System.Windows.Forms.Label label3;
+    private System.Windows.Forms.Button button_search;
+    private System.Windows.Forms.Label label_search;
+    private System.Windows.Forms.Label label_addReq;
+    private System.Windows.Forms.TextBox textBox_search;
+    private System.Windows.Forms.Label label_payment;
+    private System.Windows.Forms.Label label_close;
 }
 

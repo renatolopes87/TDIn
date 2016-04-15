@@ -83,5 +83,6 @@ C:\Users\Kenny\Source\Repos\TDIn\Client\obj\Release\ClientWindow.resources
 C:\Users\Kenny\Source\Repos\TDIn\Client\obj\Release\Bill.resources
 C:\Users\Kenny\Source\Repos\TDIn\Client\obj\Release\NewItem.resources
 C:\Users\Kenny\Source\Repos\TDIn\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\Kenny\Source\Repos\TDIn\Client\obj\Release\SearchByTable.resources
 C:\Users\Kenny\Source\Repos\TDIn\Client\obj\Release\Client.csproj.GenerateResource.Cache
 C:\Users\Kenny\Source\Repos\TDIn\Client\obj\Release\Client.exe

@@ -34,11 +34,10 @@
             this.label2 = new System.Windows.Forms.Label();
             this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
             this.label3 = new System.Windows.Forms.Label();
-            this.numericUpDown2 = new System.Windows.Forms.NumericUpDown();
             this.label4 = new System.Windows.Forms.Label();
             this.description = new System.Windows.Forms.ComboBox();
+            this.comboBox_tableSelect = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).BeginInit();
             this.SuspendLayout();
             // 
             // okButton
@@ -77,7 +76,7 @@
             this.destination.Items.AddRange(new object[] {
             "Kitchen",
             "Bar"});
-            this.destination.Location = new System.Drawing.Point(95, 99);
+            this.destination.Location = new System.Drawing.Point(95, 107);
             this.destination.Name = "destination";
             this.destination.Size = new System.Drawing.Size(213, 21);
             this.destination.TabIndex = 4;
@@ -86,7 +85,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(20, 107);
+            this.label1.Location = new System.Drawing.Point(20, 115);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(56, 13);
             this.label1.TabIndex = 1;
@@ -129,28 +128,6 @@
             this.label3.TabIndex = 7;
             this.label3.Text = "Table";
             // 
-            // numericUpDown2
-            // 
-            this.numericUpDown2.Location = new System.Drawing.Point(95, 73);
-            this.numericUpDown2.Maximum = new decimal(new int[] {
-            10,
-            0,
-            0,
-            0});
-            this.numericUpDown2.Minimum = new decimal(new int[] {
-            1,
-            0,
-            0,
-            0});
-            this.numericUpDown2.Name = "numericUpDown2";
-            this.numericUpDown2.Size = new System.Drawing.Size(213, 20);
-            this.numericUpDown2.TabIndex = 3;
-            this.numericUpDown2.Value = new decimal(new int[] {
-            1,
-            0,
-            0,
-            0});
-            // 
             // label4
             // 
             this.label4.AutoSize = true;
@@ -170,6 +147,14 @@
             this.description.TabIndex = 1;
             this.description.SelectedIndexChanged += new System.EventHandler(this.description_SelectedIndexChanged);
             // 
+            // comboBox_tableSelect
+            // 
+            this.comboBox_tableSelect.FormattingEnabled = true;
+            this.comboBox_tableSelect.Location = new System.Drawing.Point(95, 77);
+            this.comboBox_tableSelect.Name = "comboBox_tableSelect";
+            this.comboBox_tableSelect.Size = new System.Drawing.Size(213, 21);
+            this.comboBox_tableSelect.TabIndex = 11;
+            // 
             // NewItem
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -177,9 +162,9 @@
             this.CancelButton = this.cancelButton;
             this.ClientSize = new System.Drawing.Size(347, 203);
             this.ControlBox = false;
+            this.Controls.Add(this.comboBox_tableSelect);
             this.Controls.Add(this.description);
             this.Controls.Add(this.label4);
-            this.Controls.Add(this.numericUpDown2);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.numericUpDown1);
             this.Controls.Add(this.label2);
@@ -192,9 +177,8 @@
             this.Name = "NewItem";
             this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-            this.Text = "Adicionar Novo Pedido";
+            this.Text = "Add New Request";
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -209,9 +193,9 @@
     private System.Windows.Forms.Label label2;
     private System.Windows.Forms.NumericUpDown numericUpDown1;
     private System.Windows.Forms.Label label3;
-    private System.Windows.Forms.NumericUpDown numericUpDown2;
     private System.Windows.Forms.Label label4;
     private System.Windows.Forms.ComboBox description;
+    private System.Windows.Forms.ComboBox comboBox_tableSelect;
 
     public System.EventHandler comboBox1_SelectedIndexChanged { get; set; }
 }
